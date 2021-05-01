@@ -4,15 +4,24 @@ using UnityEngine;
 
 public class OnPlayerHit : MonoBehaviour
 {
+    private Score score;
+
+    void Start() {
+        score = GetComponent<Score>();
+    }
     
     // Start is called before the first frame update
     void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.GetComponent<Obstacle>() != null) {
-            Debug.Log(col.gameObject.name);
+        GameObject other = col.gameObject;
+        Debug.Log(other.name);
+        if (other.GetComponent<Obstacle>() != null) {
+
         }
-        else if (col.gameObject.GetComponent<Collectible>() != null) {
-            Debug.Log(col.gameObject.name);
+        else if (other.GetComponent<Collectible>() != null) {
+            score.AddScore(other.GetComponent<Collectible>().points);
+            Destroy(other);
+            SoundManager.Instance.PlaySound(soundEffects.coin);
         }
         
     }

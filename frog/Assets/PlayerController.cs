@@ -36,6 +36,7 @@ public class PlayerController : MonoBehaviour
             if (isGrounded) {
                 Debug.Log("eheeee");
                 myRigidBody.velocity = new Vector2(jumpingForwardSpeed, jumpForce);
+                SoundManager.Instance.PlaySound(soundEffects.croak);
             }
             
             
