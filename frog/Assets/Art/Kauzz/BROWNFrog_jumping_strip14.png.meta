@@ -134,6 +134,39 @@ TextureImporter:
   - first:
       213: 4671543697162020143
     second: BROWNFrog_jumping_strip14_9
+  - first:
+      213: 1439346880297377191
+    second: BROWNFrog_jumping_strip14_0
+  - first:
+      213: -767797894630501349
+    second: BROWNFrog_jumping_strip14_1
+  - first:
+      213: 5267858408767438205
+    second: BROWNFrog_jumping_strip14_2
+  - first:
+      213: -4886306946826513892
+    second: BROWNFrog_jumping_strip14_3
+  - first:
+      213: 8625723733210547478
+    second: BROWNFrog_jumping_strip14_4
+  - first:
+      213: 282127209700221730
+    second: BROWNFrog_jumping_strip14_5
+  - first:
+      213: 6882506557186401069
+    second: BROWNFrog_jumping_strip14_6
+  - first:
+      213: -8049096703100699745
+    second: BROWNFrog_jumping_strip14_7
+  - first:
+      213: 2046099241713872110
+    second: BROWNFrog_jumping_strip14_8
+  - first:
+      213: -2930289113299499704
+    second: BROWNFrog_jumping_strip14_9
+  - first:
+      213: 7478468248948445159
+    second: BROWNFrog_jumping_strip14_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -257,8 +290,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80cf8449717c4a670800000000000000
-      internalID: 8549176896742030344
+      spriteID: 7ad11b49c5699f310800000000000000
+      internalID: 1439346880297377191
       vertices: []
       indices: 
       edges: []
@@ -278,8 +311,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 284bacaec1fe371a0800000000000000
-      internalID: -6812838903804152702
+      spriteID: b14914ff1eb3855f0800000000000000
+      internalID: -767797894630501349
       vertices: []
       indices: 
       edges: []
@@ -299,8 +332,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c003f5198f133d5f0800000000000000
-      internalID: -733187370670673908
+      spriteID: d7d33adff413b1940800000000000000
+      internalID: 5267858408767438205
       vertices: []
       indices: 
       edges: []
@@ -320,8 +353,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fd8d6455b790e930800000000000000
-      internalID: 4170500060006419956
+      spriteID: c12d1ea78b9503cb0800000000000000
+      internalID: -4886306946826513892
       vertices: []
       indices: 
       edges: []
@@ -341,8 +374,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b90acd184d22d730800000000000000
-      internalID: 4022327204955949492
+      spriteID: 615cba8c80ab4b770800000000000000
+      internalID: 8625723733210547478
       vertices: []
       indices: 
       edges: []
@@ -362,8 +395,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05e23fb8fdfa3f260800000000000000
-      internalID: 7130236009718165072
+      spriteID: 22367a3d3315ae300800000000000000
+      internalID: 282127209700221730
       vertices: []
       indices: 
       edges: []
@@ -383,8 +416,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2acba880bc0007f0800000000000000
-      internalID: -648504393994614230
+      spriteID: d236469af33938f50800000000000000
+      internalID: 6882506557186401069
       vertices: []
       indices: 
       edges: []
@@ -404,8 +437,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ca9ddd8e07cf0870800000000000000
-      internalID: 8651352274525592256
+      spriteID: f9b3ae8c13ddb4090800000000000000
+      internalID: -8049096703100699745
       vertices: []
       indices: 
       edges: []
@@ -425,8 +458,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95b8853ba0abf2c20800000000000000
-      internalID: 3183968016695593817
+      spriteID: eec2d8d6b64356c10800000000000000
+      internalID: 2046099241713872110
       vertices: []
       indices: 
       edges: []
@@ -446,8 +479,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f25ae0edd38a4d040800000000000000
-      internalID: 4671543697162020143
+      spriteID: 845c698a3958557d0800000000000000
+      internalID: -2930289113299499704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNFrog_jumping_strip14_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0c92ff3bd8c760800000000000000
+      internalID: 7478468248948445159
       vertices: []
       indices: 
       edges: []
