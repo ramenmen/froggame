@@ -1,0 +1,4883 @@
+fileFormatVersion: 2
+guid: 29d0545b68794408398ce9fa56b076dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6656160312442181607
+    second: Snake_strip6_0
+  - first:
+      213: 6094694914038826126
+    second: Snake_strip6_1
+  - first:
+      213: 1185220083321141469
+    second: Snake_strip6_2
+  - first:
+      213: 1601736461037879622
+    second: Snake_strip6_3
+  - first:
+      213: -1629127276890669684
+    second: Snake_strip6_4
+  - first:
+      213: -8323906992724677749
+    second: Snake_strip6_5
+  - first:
+      213: -1063226478477783224
+    second: Snake_strip6_6
+  - first:
+      213: -1834471834609774956
+    second: Snake_strip6_7
+  - first:
+      213: 3718098091537007625
+    second: Snake_strip6_8
+  - first:
+      213: 609345363730795911
+    second: Snake_strip6_9
+  - first:
+      213: 480680954655578366
+    second: Snake_strip6_10
+  - first:
+      213: -3040186375370120265
+    second: Snake_strip6_11
+  - first:
+      213: 6025368639167430652
+    second: Snake_strip6_12
+  - first:
+      213: 1622844782552015624
+    second: Snake_strip6_13
+  - first:
+      213: -4435986616520916662
+    second: Snake_strip6_14
+  - first:
+      213: -1808140849479001700
+    second: Snake_strip6_15
+  - first:
+      213: -4956640664339411989
+    second: Snake_strip6_16
+  - first:
+      213: -1111650353684432591
+    second: Snake_strip6_17
+  - first:
+      213: -5286660192547015627
+    second: Snake_strip6_18
+  - first:
+      213: 1356046090812459980
+    second: Snake_strip6_19
+  - first:
+      213: 1516028244013211606
+    second: Snake_strip6_20
+  - first:
+      213: -5306983076924711826
+    second: Snake_strip6_21
+  - first:
+      213: -4770453595097155680
+    second: Snake_strip6_22
+  - first:
+      213: -4418711903810623835
+    second: Snake_strip6_23
+  - first:
+      213: -1962301701379684479
+    second: Snake_strip6_24
+  - first:
+      213: 4706182009704145061
+    second: Snake_strip6_25
+  - first:
+      213: 5647809650899103843
+    second: Snake_strip6_26
+  - first:
+      213: 9108792308662629180
+    second: Snake_strip6_27
+  - first:
+      213: -5732782387754047774
+    second: Snake_strip6_28
+  - first:
+      213: 3856019583974004359
+    second: Snake_strip6_29
+  - first:
+      213: 6409492332438223538
+    second: Snake_strip6_30
+  - first:
+      213: 5196007806336060721
+    second: Snake_strip6_31
+  - first:
+      213: -305972432607886516
+    second: Snake_strip6_32
+  - first:
+      213: 8669662041515222818
+    second: Snake_strip6_33
+  - first:
+      213: -874573985773418036
+    second: Snake_strip6_34
+  - first:
+      213: -2984747350085911617
+    second: Snake_strip6_35
+  - first:
+      213: 6338331865409192348
+    second: Snake_strip6_36
+  - first:
+      213: -6125585362221397225
+    second: Snake_strip6_37
+  - first:
+      213: -6878308542360248135
+    second: Snake_strip6_38
+  - first:
+      213: -8395629097569463643
+    second: Snake_strip6_39
+  - first:
+      213: -7605595150858895096
+    second: Snake_strip6_40
+  - first:
+      213: -2079565049674314627
+    second: Snake_strip6_41
+  - first:
+      213: 7845636889670955066
+    second: Snake_strip6_42
+  - first:
+      213: 8315462517275414670
+    second: Snake_strip6_43
+  - first:
+      213: -8942698741167849415
+    second: Snake_strip6_44
+  - first:
+      213: -2574169109574414784
+    second: Snake_strip6_45
+  - first:
+      213: 3832896716544700922
+    second: Snake_strip6_46
+  - first:
+      213: -229530750054585718
+    second: Snake_strip6_47
+  - first:
+      213: 8202041033468237516
+    second: Snake_strip6_48
+  - first:
+      213: -7163105342892792863
+    second: Snake_strip6_49
+  - first:
+      213: -3757110200184220797
+    second: Snake_strip6_50
+  - first:
+      213: 4122096303402942082
+    second: Snake_strip6_51
+  - first:
+      213: 1910782730512920983
+    second: Snake_strip6_52
+  - first:
+      213: -4476554152653745068
+    second: Snake_strip6_53
+  - first:
+      213: 6523214898353665041
+    second: Snake_strip6_54
+  - first:
+      213: -4279839181851656287
+    second: Snake_strip6_55
+  - first:
+      213: -521679535888679826
+    second: Snake_strip6_56
+  - first:
+      213: 8134371061847763937
+    second: Snake_strip6_57
+  - first:
+      213: -2201324852042694336
+    second: Snake_strip6_58
+  - first:
+      213: -6460532537780387932
+    second: Snake_strip6_59
+  - first:
+      213: -8230964107279127947
+    second: Snake_strip6_60
+  - first:
+      213: 6300270435782653277
+    second: Snake_strip6_61
+  - first:
+      213: 7016091678992246921
+    second: Snake_strip6_62
+  - first:
+      213: -2512612278061299991
+    second: Snake_strip6_63
+  - first:
+      213: -2536284922704236712
+    second: Snake_strip6_64
+  - first:
+      213: 4792697902996674505
+    second: Snake_strip6_65
+  - first:
+      213: 6354085995616480348
+    second: Snake_strip6_66
+  - first:
+      213: 3659924042305563553
+    second: Snake_strip6_67
+  - first:
+      213: 2796472531275411152
+    second: Snake_strip6_68
+  - first:
+      213: -497273839616687123
+    second: Snake_strip6_69
+  - first:
+      213: 1781661493031810183
+    second: Snake_strip6_70
+  - first:
+      213: 1071879179083505348
+    second: Snake_strip6_71
+  - first:
+      213: -981464125055698759
+    second: Snake_strip6_72
+  - first:
+      213: 8172415749341335868
+    second: Snake_strip6_73
+  - first:
+      213: 7534192102634602103
+    second: Snake_strip6_74
+  - first:
+      213: 4140476072762779416
+    second: Snake_strip6_75
+  - first:
+      213: 179730814047609903
+    second: Snake_strip6_76
+  - first:
+      213: -3511628916839146009
+    second: Snake_strip6_77
+  - first:
+      213: 605219356054354454
+    second: Snake_strip6_78
+  - first:
+      213: 910540220086740779
+    second: Snake_strip6_79
+  - first:
+      213: -591420923425886780
+    second: Snake_strip6_80
+  - first:
+      213: 7096776323338440019
+    second: Snake_strip6_81
+  - first:
+      213: 7118981694262622967
+    second: Snake_strip6_82
+  - first:
+      213: -6414819617600210208
+    second: Snake_strip6_83
+  - first:
+      213: -2633438442007706723
+    second: Snake_strip6_84
+  - first:
+      213: -1967927583113757857
+    second: Snake_strip6_85
+  - first:
+      213: 7118525556417332715
+    second: Snake_strip6_86
+  - first:
+      213: 3529578131221510976
+    second: Snake_strip6_87
+  - first:
+      213: 5547441463207397668
+    second: Snake_strip6_88
+  - first:
+      213: 8615965455570623579
+    second: Snake_strip6_89
+  - first:
+      213: 1747390625281214995
+    second: Snake_strip6_90
+  - first:
+      213: 1822364660694102278
+    second: Snake_strip6_91
+  - first:
+      213: 8152850547900823271
+    second: Snake_strip6_92
+  - first:
+      213: -7050471497035777295
+    second: Snake_strip6_93
+  - first:
+      213: 1151388422092608053
+    second: Snake_strip6_94
+  - first:
+      213: -8131708731161571578
+    second: Snake_strip6_95
+  - first:
+      213: -7487370673819659102
+    second: Snake_strip6_96
+  - first:
+      213: -3385379624127642791
+    second: Snake_strip6_97
+  - first:
+      213: -5279604582594975821
+    second: Snake_strip6_98
+  - first:
+      213: 9001926158416344520
+    second: Snake_strip6_99
+  - first:
+      213: 4638125182361590297
+    second: Snake_strip6_100
+  - first:
+      213: -1791479906161022173
+    second: Snake_strip6_101
+  - first:
+      213: 6710528266628810674
+    second: Snake_strip6_102
+  - first:
+      213: 2623643736004294021
+    second: Snake_strip6_103
+  - first:
+      213: -256179009078252982
+    second: Snake_strip6_104
+  - first:
+      213: -6829836247586539495
+    second: Snake_strip6_105
+  - first:
+      213: 5659267313125696632
+    second: Snake_strip6_106
+  - first:
+      213: 6979990350890519929
+    second: Snake_strip6_107
+  - first:
+      213: -970191844557078087
+    second: Snake_strip6_108
+  - first:
+      213: 138073505853393261
+    second: Snake_strip6_109
+  - first:
+      213: 4811378285362357812
+    second: Snake_strip6_110
+  - first:
+      213: -8567967426321144354
+    second: Snake_strip6_111
+  - first:
+      213: 3112439602003647641
+    second: Snake_strip6_112
+  - first:
+      213: 2279653701189983796
+    second: Snake_strip6_113
+  - first:
+      213: 8729543107916883878
+    second: Snake_strip6_114
+  - first:
+      213: -7566657146142149265
+    second: Snake_strip6_115
+  - first:
+      213: -7865771855435262067
+    second: Snake_strip6_116
+  - first:
+      213: -617493902985268629
+    second: Snake_strip6_117
+  - first:
+      213: 4295833206152224228
+    second: Snake_strip6_118
+  - first:
+      213: 3075398381467323005
+    second: Snake_strip6_119
+  - first:
+      213: -2316215212557436005
+    second: Snake_strip6_120
+  - first:
+      213: -769796091636944516
+    second: Snake_strip6_121
+  - first:
+      213: -3020576148358378147
+    second: Snake_strip6_122
+  - first:
+      213: 3546239074178217957
+    second: Snake_strip6_123
+  - first:
+      213: 5360903896693737312
+    second: Snake_strip6_124
+  - first:
+      213: -2985246694356750634
+    second: Snake_strip6_125
+  - first:
+      213: 6493124074566157004
+    second: Snake_strip6_126
+  - first:
+      213: -9222403163018407306
+    second: Snake_strip6_127
+  - first:
+      213: -6197537291302100631
+    second: Snake_strip6_128
+  - first:
+      213: 5150893024345983167
+    second: Snake_strip6_129
+  - first:
+      213: -2265928220424537035
+    second: Snake_strip6_130
+  - first:
+      213: -1692915170320261628
+    second: Snake_strip6_131
+  - first:
+      213: 6738549496505002210
+    second: Snake_strip6_132
+  - first:
+      213: -7475852101111255554
+    second: Snake_strip6_133
+  - first:
+      213: -6323247513252428241
+    second: Snake_strip6_134
+  - first:
+      213: -7649438839442913982
+    second: Snake_strip6_135
+  - first:
+      213: -1091723600570081995
+    second: Snake_strip6_136
+  - first:
+      213: 2716854463492910572
+    second: Snake_strip6_137
+  - first:
+      213: 8843576795089967736
+    second: Snake_strip6_138
+  - first:
+      213: 8338890463707206196
+    second: Snake_strip6_139
+  - first:
+      213: 5925718852024788493
+    second: Snake_strip6_140
+  - first:
+      213: 2334553650324438411
+    second: Snake_strip6_141
+  - first:
+      213: 3528826359234031764
+    second: Snake_strip6_142
+  - first:
+      213: -3798942544417760444
+    second: Snake_strip6_143
+  - first:
+      213: 6701977887356706132
+    second: Snake_strip6_144
+  - first:
+      213: 884968137902513941
+    second: Snake_strip6_145
+  - first:
+      213: -4669102619247641135
+    second: Snake_strip6_146
+  - first:
+      213: -8710421804874296283
+    second: Snake_strip6_147
+  - first:
+      213: -1928955492345394035
+    second: Snake_strip6_148
+  - first:
+      213: 1991574647276719933
+    second: Snake_strip6_149
+  - first:
+      213: 6713897172981444678
+    second: Snake_strip6_150
+  - first:
+      213: -5761936952557326032
+    second: Snake_strip6_151
+  - first:
+      213: 5699872487004707188
+    second: Snake_strip6_152
+  - first:
+      213: -1213394019009361969
+    second: Snake_strip6_153
+  - first:
+      213: -564192669347784583
+    second: Snake_strip6_154
+  - first:
+      213: -7863926908470092178
+    second: Snake_strip6_155
+  - first:
+      213: -5748559582117209652
+    second: Snake_strip6_156
+  - first:
+      213: -5500110421314354385
+    second: Snake_strip6_157
+  - first:
+      213: 9163174158850257503
+    second: Snake_strip6_158
+  - first:
+      213: 5268496142016787820
+    second: Snake_strip6_159
+  - first:
+      213: 7659591957844933235
+    second: Snake_strip6_160
+  - first:
+      213: -619987082232253485
+    second: Snake_strip6_161
+  - first:
+      213: -5800032775971223668
+    second: Snake_strip6_162
+  - first:
+      213: 8360956547056452638
+    second: Snake_strip6_163
+  - first:
+      213: -8282190252572220369
+    second: Snake_strip6_164
+  - first:
+      213: -3635732759717284500
+    second: Snake_strip6_165
+  - first:
+      213: 111681618524117686
+    second: Snake_strip6_166
+  - first:
+      213: -7413249244376732158
+    second: Snake_strip6_167
+  - first:
+      213: -1613946082782694894
+    second: Snake_strip6_168
+  - first:
+      213: -7386727660156088490
+    second: Snake_strip6_169
+  - first:
+      213: -2181041658824759204
+    second: Snake_strip6_170
+  - first:
+      213: -4379368764860289704
+    second: Snake_strip6_171
+  - first:
+      213: 3649232691917048417
+    second: Snake_strip6_172
+  - first:
+      213: -8936888784798665946
+    second: Snake_strip6_173
+  - first:
+      213: -2192079783710570128
+    second: Snake_strip6_174
+  - first:
+      213: 6931097266559670765
+    second: Snake_strip6_175
+  - first:
+      213: 1658353728196250235
+    second: Snake_strip6_176
+  - first:
+      213: -8212180012760740980
+    second: Snake_strip6_177
+  - first:
+      213: 3394580954626726583
+    second: Snake_strip6_178
+  - first:
+      213: 4142790750366276509
+    second: Snake_strip6_179
+  - first:
+      213: 4699558526389760182
+    second: Snake_strip6_180
+  - first:
+      213: -8870562439825360617
+    second: Snake_strip6_181
+  - first:
+      213: 4328800834594164042
+    second: Snake_strip6_182
+  - first:
+      213: 4271039597808550610
+    second: Snake_strip6_183
+  - first:
+      213: -8582526109011694419
+    second: Snake_strip6_184
+  - first:
+      213: 5610699597990832875
+    second: Snake_strip6_185
+  - first:
+      213: 2844105549967859284
+    second: Snake_strip6_186
+  - first:
+      213: 7700198908875778863
+    second: Snake_strip6_187
+  - first:
+      213: 1433810166335068470
+    second: Snake_strip6_188
+  - first:
+      213: 1857852133146577053
+    second: Snake_strip6_189
+  - first:
+      213: -4633316224818328914
+    second: Snake_strip6_190
+  - first:
+      213: -8887782238256929568
+    second: Snake_strip6_191
+  - first:
+      213: 2849290791360184379
+    second: Snake_strip6_192
+  - first:
+      213: 1587689988140697018
+    second: Snake_strip6_193
+  - first:
+      213: -8566937707441738939
+    second: Snake_strip6_194
+  - first:
+      213: 3573310945557351479
+    second: Snake_strip6_195
+  - first:
+      213: 2421542566809956006
+    second: Snake_strip6_196
+  - first:
+      213: -8754245380198345792
+    second: Snake_strip6_197
+  - first:
+      213: 60858669240946189
+    second: Snake_strip6_198
+  - first:
+      213: 2458406864895532972
+    second: Snake_strip6_199
+  - first:
+      213: 468114870317317999
+    second: Snake_strip6_200
+  - first:
+      213: 506779595575720635
+    second: Snake_strip6_201
+  - first:
+      213: 7080784407253866170
+    second: Snake_strip6_202
+  - first:
+      213: -5481238360220885000
+    second: Snake_strip6_203
+  - first:
+      213: 5503464027782212768
+    second: Snake_strip6_204
+  - first:
+      213: 4297673699994413317
+    second: Snake_strip6_205
+  - first:
+      213: -1404049927523567307
+    second: Snake_strip6_206
+  - first:
+      213: 1366776366589123473
+    second: Snake_strip6_207
+  - first:
+      213: -6480846601214757961
+    second: Snake_strip6_208
+  - first:
+      213: 3751159716949635982
+    second: Snake_strip6_209
+  - first:
+      213: -2126656117372291174
+    second: Snake_strip6_210
+  - first:
+      213: -4298699494306031636
+    second: Snake_strip6_211
+  - first:
+      213: -8242713021306447382
+    second: Snake_strip6_212
+  - first:
+      213: -5785090797493728482
+    second: Snake_strip6_213
+  - first:
+      213: 6107970326536917009
+    second: Snake_strip6_214
+  - first:
+      213: 3857724408179029231
+    second: Snake_strip6_215
+  - first:
+      213: 2003776173029884721
+    second: Snake_strip6_216
+  - first:
+      213: 8694276216184478839
+    second: Snake_strip6_217
+  - first:
+      213: 6829900603340917279
+    second: Snake_strip6_218
+  - first:
+      213: 6753504949130707376
+    second: Snake_strip6_219
+  - first:
+      213: 1699680026904931349
+    second: Snake_strip6_220
+  - first:
+      213: 3931097426276999840
+    second: Snake_strip6_221
+  - first:
+      213: -7823411067182864232
+    second: Snake_strip6_222
+  - first:
+      213: -8883012000720693516
+    second: Snake_strip6_223
+  - first:
+      213: -6642803376805374687
+    second: Snake_strip6_224
+  - first:
+      213: -7666264386471138790
+    second: Snake_strip6_225
+  - first:
+      213: 7198630145513402287
+    second: Snake_strip6_226
+  - first:
+      213: -3735996445830650086
+    second: Snake_strip6_227
+  - first:
+      213: 6278565938019800050
+    second: Snake_strip6_228
+  - first:
+      213: -3411080450974618554
+    second: Snake_strip6_229
+  - first:
+      213: -9215108419892601141
+    second: Snake_strip6_230
+  - first:
+      213: -5863986003513344715
+    second: Snake_strip6_231
+  - first:
+      213: 354084254476325486
+    second: Snake_strip6_232
+  - first:
+      213: -7057830034317716786
+    second: Snake_strip6_233
+  - first:
+      213: -5055259682030551804
+    second: Snake_strip6_234
+  - first:
+      213: 3230293181180621574
+    second: Snake_strip6_235
+  - first:
+      213: 4789139755816859059
+    second: Snake_strip6_236
+  - first:
+      213: 3416809320880823542
+    second: Snake_strip6_237
+  - first:
+      213: -2823417710710333322
+    second: Snake_strip6_238
+  - first:
+      213: 982833155771462022
+    second: Snake_strip6_239
+  - first:
+      213: -570465439308592481
+    second: Snake_strip6_240
+  - first:
+      213: -6950291803431417858
+    second: Snake_strip6_241
+  - first:
+      213: -4461921077255558133
+    second: Snake_strip6_242
+  - first:
+      213: 6956886755601884400
+    second: Snake_strip6_243
+  - first:
+      213: -1351179775104757444
+    second: Snake_strip6_244
+  - first:
+      213: -7885113491827627621
+    second: Snake_strip6_245
+  - first:
+      213: -6435213562449303147
+    second: Snake_strip6_246
+  - first:
+      213: 7932979150217571728
+    second: Snake_strip6_247
+  - first:
+      213: -8915859597576473992
+    second: Snake_strip6_248
+  - first:
+      213: 8083829546973276021
+    second: Snake_strip6_249
+  - first:
+      213: 8717207482856542137
+    second: Snake_strip6_250
+  - first:
+      213: 7781729248055601120
+    second: Snake_strip6_251
+  - first:
+      213: 7725009860817871389
+    second: Snake_strip6_252
+  - first:
+      213: -5479798954688317535
+    second: Snake_strip6_253
+  - first:
+      213: -824078048152199680
+    second: Snake_strip6_254
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snake_strip6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918a4d0367190a3a0800000000000000
+      internalID: -6656160312442181607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840aa5bbb4b49450800000000000000
+      internalID: 6094694914038826126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8f30fd26fb27010800000000000000
+      internalID: 1185220083321141469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64144ff23d28a3610800000000000000
+      internalID: 1601736461037879622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d38078f5d2469e0800000000000000
+      internalID: -1629127276890669684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b614b21ba8b7c80800000000000000
+      internalID: -8323906992724677749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fca8aa629ae31f0800000000000000
+      internalID: -1063226478477783224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e00abf595aa86e0800000000000000
+      internalID: -1834471834609774956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9040f12d386599330800000000000000
+      internalID: 3718098091537007625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d84be3164d47800800000000000000
+      internalID: 609345363730795911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef89a8018c8bba600800000000000000
+      internalID: 480680954655578366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3e41569961fc5d0800000000000000
+      internalID: -3040186375370120265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff7a528ad86e9350800000000000000
+      internalID: 6025368639167430652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803eb954bb0858610800000000000000
+      internalID: 1622844782552015624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_14
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4142e5dca53072c0800000000000000
+      internalID: -4435986616520916662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c995ee23a7138e6e0800000000000000
+      internalID: -1808140849479001700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb0bc2c399763bb0800000000000000
+      internalID: -4956640664339411989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139b332a4ef9290f0800000000000000
+      internalID: -1111650353684432591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_18
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5347907909202a6b0800000000000000
+      internalID: -5286660192547015627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_19
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb0fe52cb4a1d210800000000000000
+      internalID: 1356046090812459980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfddd9d7a30a0510800000000000000
+      internalID: 1516028244013211606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_21
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c94e6520fc956b0800000000000000
+      internalID: -5306983076924711826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_22
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7bfbeeab1fbcdb0800000000000000
+      internalID: -4770453595097155680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_23
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6e3905fe49da2c0800000000000000
+      internalID: -4418711903810623835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_24
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878e13dff084c4e0800000000000000
+      internalID: -1962301701379684479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_25
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0efb87a97bf4140800000000000000
+      internalID: 4706182009704145061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_26
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3603dd044fc016e40800000000000000
+      internalID: 5647809650899103843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_27
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3375a2285ee86e70800000000000000
+      internalID: 9108792308662629180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_28
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6ed4bbac01170b0800000000000000
+      internalID: -5732782387754047774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_29
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78658bda165538530800000000000000
+      internalID: 3856019583974004359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_30
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf191415713f850800000000000000
+      internalID: 6409492332438223538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_31
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d41daf19deb1840800000000000000
+      internalID: 5196007806336060721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_32
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43485391b7f0cbf0800000000000000
+      internalID: -305972432607886516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_33
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227e33361b3d05870800000000000000
+      internalID: 8669662041515222818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_34
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98d28f793ecd3f0800000000000000
+      internalID: -874573985773418036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_35
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb37d5591c0496d0800000000000000
+      internalID: -2984747350085911617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_36
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91014aef3746f750800000000000000
+      internalID: 6338331865409192348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_37
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b067b519c8dfaa0800000000000000
+      internalID: -6125585362221397225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_38
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b02515d2d65b80a0800000000000000
+      internalID: -6878308542360248135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_39
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2507551dbbc7b80800000000000000
+      internalID: -8395629097569463643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_40
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8014f97a18f737690800000000000000
+      internalID: -7605595150858895096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_41
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c48d6fa96e323e0800000000000000
+      internalID: -2079565049674314627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_42
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b985ee2d41ec60800000000000000
+      internalID: 7845636889670955066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_43
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80d64d2a15766370800000000000000
+      internalID: 8315462517275414670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_44
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9308b5710e625e380800000000000000
+      internalID: -8942698741167849415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_45
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e880855d6b64cd0800000000000000
+      internalID: -2574169109574414784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_46
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af17862914f213530800000000000000
+      internalID: 3832896716544700922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_47
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aa7f9bffa80dcf0800000000000000
+      internalID: -229530750054585718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_48
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65d091dd083d170800000000000000
+      internalID: 8202041033468237516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_49
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e32c2474a9879c90800000000000000
+      internalID: -7163105342892792863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_50
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383d500dd201cdbc0800000000000000
+      internalID: -3757110200184220797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_51
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e78468fb0a43930800000000000000
+      internalID: 4122096303402942082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_52
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7917c2705c6748a10800000000000000
+      internalID: 1910782730512920983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_53
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454164947b510e1c0800000000000000
+      internalID: -4476554152653745068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_54
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114f7e9736d178a50800000000000000
+      internalID: 6523214898353665041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_55
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1affeed80f4fa94c0800000000000000
+      internalID: -4279839181851656287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_56
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cb3c0e93f92c8f0800000000000000
+      internalID: -521679535888679826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_57
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb27ac026713e070800000000000000
+      internalID: 8134371061847763937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_58
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04181cec5b25371e0800000000000000
+      internalID: -2201324852042694336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_59
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af3fb1e2e39756a0800000000000000
+      internalID: -6460532537780387932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_60
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a23a201cdb5cd80800000000000000
+      internalID: -8230964107279127947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_61
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5578b1c49e0f6750800000000000000
+      internalID: 6300270435782653277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_62
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98828ed853a2e5160800000000000000
+      internalID: 7016091678992246921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_63
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e60fdb0278612dd0800000000000000
+      internalID: -2512612278061299991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_64
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fe805fc4e4dccd0800000000000000
+      internalID: -2536284922704236712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_65
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c750e79955138240800000000000000
+      internalID: 4792697902996674505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_66
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c21013c8f3e2850800000000000000
+      internalID: 6354085995616480348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_67
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe88e7689aac230800000000000000
+      internalID: 3659924042305563553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_68
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deeeca63f01fc620800000000000000
+      internalID: 2796472531275411152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_69
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de38d89d3145919f0800000000000000
+      internalID: -497273839616687123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_70
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784372230bbb9b810800000000000000
+      internalID: 1781661493031810183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_71
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ced86f2f6410ee00800000000000000
+      internalID: 1071879179083505348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_72
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8f34a04932162f0800000000000000
+      internalID: -981464125055698759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_73
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c315c4023d04a6170800000000000000
+      internalID: 8172415749341335868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_74
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb61bacc3de8860800000000000000
+      internalID: 7534192102634602103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_75
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817a70e0d0de57930800000000000000
+      internalID: 4140476072762779416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_76
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ef7e19388e7200800000000000000
+      internalID: 179730814047609903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_77
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed10d40b10344fc0800000000000000
+      internalID: -3511628916839146009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_78
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a7fc83ccb266800800000000000000
+      internalID: 605219356054354454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_79
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27e9f38183e2ac00800000000000000
+      internalID: 910540220086740779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_80
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd677abdc9dac7f0800000000000000
+      internalID: -591420923425886780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_81
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d8dfa3770dc7260800000000000000
+      internalID: 7096776323338440019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_82
+      rect:
+        serializedVersion: 2
+        x: 3854
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa38090224bbc260800000000000000
+      internalID: 7118981694262622967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_83
+      rect:
+        serializedVersion: 2
+        x: 3901
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea7bb28b8bf9f6a0800000000000000
+      internalID: -6414819617600210208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_84
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c54680b5247bd0800000000000000
+      internalID: -2633438442007706723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_85
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bbfc82a4480b4e0800000000000000
+      internalID: -1967927583113757857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_86
+      rect:
+        serializedVersion: 2
+        x: 4042
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be58bca27451ac260800000000000000
+      internalID: 7118525556417332715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_87
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf17e1c949bf030800000000000000
+      internalID: 3529578131221510976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_88
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42900c28e987cfc40800000000000000
+      internalID: 5547441463207397668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_89
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd258beee029770800000000000000
+      internalID: 8615965455570623579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_90
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a0cbff38aff3810800000000000000
+      internalID: 1747390625281214995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_91
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601b5ebe0075a4910800000000000000
+      internalID: 1822364660694102278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_92
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e63a7ea06eb42170800000000000000
+      internalID: 8152850547900823271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_93
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa7a284781b72e90800000000000000
+      internalID: -7050471497035777295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_94
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d3596bad8aff00800000000000000
+      internalID: 1151388422092608053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_95
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f0c2e1efd562f80800000000000000
+      internalID: -8131708731161571578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_96
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a45d4dba04871890800000000000000
+      internalID: -7487370673819659102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_97
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953c60a1b27b401d0800000000000000
+      internalID: -3385379624127642791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_98
+      rect:
+        serializedVersion: 2
+        x: 4606
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e6ebca931bb6b0800000000000000
+      internalID: -5279604582594975821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_99
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5f3b695244dec70800000000000000
+      internalID: 9001926158416344520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_100
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ad47e874eed5040800000000000000
+      internalID: 4638125182361590297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_101
+      rect:
+        serializedVersion: 2
+        x: 4747
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ba50b54826327e0800000000000000
+      internalID: -1791479906161022173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_102
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7c0a397e5902d50800000000000000
+      internalID: 6710528266628810674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_103
+      rect:
+        serializedVersion: 2
+        x: 4841
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585f6b5c31e096420800000000000000
+      internalID: 2623643736004294021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_104
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aaafc6c8ed17cf0800000000000000
+      internalID: -256179009078252982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_105
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918748c6e1c8731a0800000000000000
+      internalID: -6829836247586539495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_106
+      rect:
+        serializedVersion: 2
+        x: 4982
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87426df13a1c98e40800000000000000
+      internalID: 5659267313125696632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_107
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dcb781e38edd060800000000000000
+      internalID: 6979990350890519929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_108
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1c13d58af2982f0800000000000000
+      internalID: -970191844557078087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_109
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c84d3f198ae100800000000000000
+      internalID: 138073505853393261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_110
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4362d0b0f0375c240800000000000000
+      internalID: 4811378285362357812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_111
+      rect:
+        serializedVersion: 2
+        x: 5217
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a2035507781980800000000000000
+      internalID: -8567967426321144354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_112
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c194ed35b913b20800000000000000
+      internalID: 3112439602003647641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_113
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e555e86f4f2af10800000000000000
+      internalID: 2279653701189983796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_114
+      rect:
+        serializedVersion: 2
+        x: 5358
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a768de9431952970800000000000000
+      internalID: 8729543107916883878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_115
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b60b5a65ddf690800000000000000
+      internalID: -7566657146142149265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_116
+      rect:
+        serializedVersion: 2
+        x: 5452
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8714801c2a27d290800000000000000
+      internalID: -7865771855435262067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_117
+      rect:
+        serializedVersion: 2
+        x: 5499
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62f79d11983e67f0800000000000000
+      internalID: -617493902985268629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_118
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edd70b6a8ddd9b30800000000000000
+      internalID: 4295833206152224228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_119
+      rect:
+        serializedVersion: 2
+        x: 5593
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7acb26a8820eaa20800000000000000
+      internalID: 3075398381467323005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_120
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b782839862bdfd0800000000000000
+      internalID: -2316215212557436005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_121
+      rect:
+        serializedVersion: 2
+        x: 5687
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71fe7088822155f0800000000000000
+      internalID: -769796091636944516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_122
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc41c2ff1c416d0800000000000000
+      internalID: -3020576148358378147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_123
+      rect:
+        serializedVersion: 2
+        x: 5781
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7b00136a5c63130800000000000000
+      internalID: 3546239074178217957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_124
+      rect:
+        serializedVersion: 2
+        x: 5828
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0670075d0b1c56a40800000000000000
+      internalID: 5360903896693737312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_125
+      rect:
+        serializedVersion: 2
+        x: 5875
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee4ffa2f54296d0800000000000000
+      internalID: -2985246694356750634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_126
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc28d0b91f53c1a50800000000000000
+      internalID: 6493124074566157004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_127
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67259d48f21730080800000000000000
+      internalID: -9222403163018407306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_128
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a3b56bacedf9a0800000000000000
+      internalID: -6197537291302100631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_129
+      rect:
+        serializedVersion: 2
+        x: 6063
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb80e204ae5ab7740800000000000000
+      internalID: 5150893024345983167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_130
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cff07f94ecd80e0800000000000000
+      internalID: -2265928220424537035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_131
+      rect:
+        serializedVersion: 2
+        x: 6157
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ed03e3f9e8188e0800000000000000
+      internalID: -1692915170320261628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_132
+      rect:
+        serializedVersion: 2
+        x: 6204
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e861909013248d50800000000000000
+      internalID: 6738549496505002210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_133
+      rect:
+        serializedVersion: 2
+        x: 6251
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde7ef6f10704890800000000000000
+      internalID: -7475852101111255554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_134
+      rect:
+        serializedVersion: 2
+        x: 6298
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2687b183ef4f38a0800000000000000
+      internalID: -6323247513252428241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_135
+      rect:
+        serializedVersion: 2
+        x: 6345
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245cdeb67ebb7d590800000000000000
+      internalID: -7649438839442913982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_136
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d1c136b2b69d0f0800000000000000
+      internalID: -1091723600570081995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_137
+      rect:
+        serializedVersion: 2
+        x: 6439
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedede27db434b520800000000000000
+      internalID: 2716854463492910572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_138
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a99376d32baba70800000000000000
+      internalID: 8843576795089967736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_139
+      rect:
+        serializedVersion: 2
+        x: 6533
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432192602b0b9b370800000000000000
+      internalID: 8338890463707206196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_140
+      rect:
+        serializedVersion: 2
+        x: 6580
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e5cd66e16c3250800000000000000
+      internalID: 5925718852024788493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_141
+      rect:
+        serializedVersion: 2
+        x: 6627
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dfdac0d20066020800000000000000
+      internalID: 2334553650324438411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_142
+      rect:
+        serializedVersion: 2
+        x: 6674
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490fd2090e8e8f030800000000000000
+      internalID: 3528826359234031764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_143
+      rect:
+        serializedVersion: 2
+        x: 6721
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5cdd22e1774bc0800000000000000
+      internalID: -3798942544417760444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_144
+      rect:
+        serializedVersion: 2
+        x: 6768
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d5b644165320d50800000000000000
+      internalID: 6701977887356706132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_145
+      rect:
+        serializedVersion: 2
+        x: 6815
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fd73925d9084c00800000000000000
+      internalID: 884968137902513941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_146
+      rect:
+        serializedVersion: 2
+        x: 6862
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddf5efd7e3043fb0800000000000000
+      internalID: -4669102619247641135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_147
+      rect:
+        serializedVersion: 2
+        x: 6909
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52496aca48d5e1780800000000000000
+      internalID: -8710421804874296283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_148
+      rect:
+        serializedVersion: 2
+        x: 6956
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cc6332339fa35e0800000000000000
+      internalID: -1928955492345394035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_149
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f4a92079e73ab10800000000000000
+      internalID: 1991574647276719933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_150
+      rect:
+        serializedVersion: 2
+        x: 7050
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640fe0638ed8c2d50800000000000000
+      internalID: 6713897172981444678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_151
+      rect:
+        serializedVersion: 2
+        x: 7097
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031bf94aedc7900b0800000000000000
+      internalID: -5761936952557326032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_152
+      rect:
+        serializedVersion: 2
+        x: 7144
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47910f4e3d30a1f40800000000000000
+      internalID: 5699872487004707188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_153
+      rect:
+        serializedVersion: 2
+        x: 7191
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc70d5c8198292fe0800000000000000
+      internalID: -1213394019009361969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_154
+      rect:
+        serializedVersion: 2
+        x: 7238
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97855a6a1c59b28f0800000000000000
+      internalID: -564192669347784583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_155
+      rect:
+        serializedVersion: 2
+        x: 7285
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e11014428bdd290800000000000000
+      internalID: -7863926908470092178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_156
+      rect:
+        serializedVersion: 2
+        x: 7332
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc95cb964830930b0800000000000000
+      internalID: -5748559582117209652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_157
+      rect:
+        serializedVersion: 2
+        x: 7379
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23422076beaba3b0800000000000000
+      internalID: -5500110421314354385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_158
+      rect:
+        serializedVersion: 2
+        x: 7426
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52fe4159522a2f70800000000000000
+      internalID: 9163174158850257503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_159
+      rect:
+        serializedVersion: 2
+        x: 7473
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c653d65d3557d1940800000000000000
+      internalID: 5268496142016787820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_160
+      rect:
+        serializedVersion: 2
+        x: 7520
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a39cbad465c4a60800000000000000
+      internalID: 7659591957844933235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_161
+      rect:
+        serializedVersion: 2
+        x: 7567
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d33736980d5567f0800000000000000
+      internalID: -619987082232253485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_162
+      rect:
+        serializedVersion: 2
+        x: 7614
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87cc9e8be4228fa0800000000000000
+      internalID: -5800032775971223668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_163
+      rect:
+        serializedVersion: 2
+        x: 7661
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14c6c96ea5180470800000000000000
+      internalID: 8360956547056452638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_164
+      rect:
+        serializedVersion: 2
+        x: 7708
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ea31a8dfbf0d80800000000000000
+      internalID: -8282190252572220369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_165
+      rect:
+        serializedVersion: 2
+        x: 7755
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65fcc661584b8dc0800000000000000
+      internalID: -3635732759717284500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_166
+      rect:
+        serializedVersion: 2
+        x: 7802
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba121027d5cc8100800000000000000
+      internalID: 111681618524117686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_167
+      rect:
+        serializedVersion: 2
+        x: 7849
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eed7dd619de1990800000000000000
+      internalID: -7413249244376732158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_168
+      rect:
+        serializedVersion: 2
+        x: 7896
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212ba19b69c1a99e0800000000000000
+      internalID: -1613946082782694894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_169
+      rect:
+        serializedVersion: 2
+        x: 7943
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f08d364521d7990800000000000000
+      internalID: -7386727660156088490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_170
+      rect:
+        serializedVersion: 2
+        x: 7990
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58eb6dba226bb1e0800000000000000
+      internalID: -2181041658824759204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_171
+      rect:
+        serializedVersion: 2
+        x: 8037
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85daf0eaf4b5933c0800000000000000
+      internalID: -4379368764860289704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_172
+      rect:
+        serializedVersion: 2
+        x: 8084
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a45708ccda4a230800000000000000
+      internalID: 3649232691917048417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_173
+      rect:
+        serializedVersion: 2
+        x: 8131
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62337e8fffac9f380800000000000000
+      internalID: -8936888784798665946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_174
+      rect:
+        serializedVersion: 2
+        x: 8178
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079cd940d0b2491e0800000000000000
+      internalID: -2192079783710570128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_175
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de958fccd34303060800000000000000
+      internalID: 6931097266559670765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_176
+      rect:
+        serializedVersion: 2
+        x: 8272
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a0511fde7a30710800000000000000
+      internalID: 1658353728196250235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_177
+      rect:
+        serializedVersion: 2
+        x: 8319
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b45d3d9c9780e80800000000000000
+      internalID: -8212180012760740980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_178
+      rect:
+        serializedVersion: 2
+        x: 8366
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba15d99469fb1f20800000000000000
+      internalID: 3394580954626726583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_179
+      rect:
+        serializedVersion: 2
+        x: 8413
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b1b5eec362e7930800000000000000
+      internalID: 4142790750366276509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_180
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0be96949f283140800000000000000
+      internalID: 4699558526389760182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_181
+      rect:
+        serializedVersion: 2
+        x: 8507
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7197940957e65e480800000000000000
+      internalID: -8870562439825360617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_182
+      rect:
+        serializedVersion: 2
+        x: 8554
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d46619c6df21c30800000000000000
+      internalID: 4328800834594164042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_183
+      rect:
+        serializedVersion: 2
+        x: 8601
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d28101a2e7c54b30800000000000000
+      internalID: 4271039597808550610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_184
+      rect:
+        serializedVersion: 2
+        x: 8648
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca7dcd9fdb4e880800000000000000
+      internalID: -8582526109011694419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_185
+      rect:
+        serializedVersion: 2
+        x: 8695
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaabafbe853ddd40800000000000000
+      internalID: 5610699597990832875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_186
+      rect:
+        serializedVersion: 2
+        x: 8742
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e1d81ddea487720800000000000000
+      internalID: 2844105549967859284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_187
+      rect:
+        serializedVersion: 2
+        x: 8789
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b24673c1a9cda60800000000000000
+      internalID: 7700198908875778863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_188
+      rect:
+        serializedVersion: 2
+        x: 8836
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639deb7efbae5e310800000000000000
+      internalID: 1433810166335068470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_strip6_189
+      rect:
+        serializedVersion: 2
+        x: 8883
+        y: 0
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984769fbaa68c910800000000000000
+      internalID: 1857852133146577053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

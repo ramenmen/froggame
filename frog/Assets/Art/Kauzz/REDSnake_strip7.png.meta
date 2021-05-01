@@ -1,0 +1,3698 @@
+fileFormatVersion: 2
+guid: e39661acd7042469289c38001c32b864
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5529263233218784948
+    second: REDSnake_strip7_0
+  - first:
+      213: 5080759681055349130
+    second: REDSnake_strip7_1
+  - first:
+      213: -5779925260486651089
+    second: REDSnake_strip7_2
+  - first:
+      213: 7338265722526294109
+    second: REDSnake_strip7_3
+  - first:
+      213: -5661448415403039452
+    second: REDSnake_strip7_4
+  - first:
+      213: -1337724039998610276
+    second: REDSnake_strip7_5
+  - first:
+      213: -1210520573686412865
+    second: REDSnake_strip7_6
+  - first:
+      213: 4164844273965092298
+    second: REDSnake_strip7_7
+  - first:
+      213: 1387016544869364371
+    second: REDSnake_strip7_8
+  - first:
+      213: 8179548277526997262
+    second: REDSnake_strip7_9
+  - first:
+      213: 9194162495878087303
+    second: REDSnake_strip7_10
+  - first:
+      213: 9057443725835543151
+    second: REDSnake_strip7_11
+  - first:
+      213: 5771640909374591156
+    second: REDSnake_strip7_12
+  - first:
+      213: -5824259824292895599
+    second: REDSnake_strip7_13
+  - first:
+      213: 5884385272318158033
+    second: REDSnake_strip7_14
+  - first:
+      213: -8072116185924416408
+    second: REDSnake_strip7_15
+  - first:
+      213: 5615507445621120373
+    second: REDSnake_strip7_16
+  - first:
+      213: 2675895022512950006
+    second: REDSnake_strip7_17
+  - first:
+      213: 6413274933535854225
+    second: REDSnake_strip7_18
+  - first:
+      213: -4805963216839966198
+    second: REDSnake_strip7_19
+  - first:
+      213: -8220321426997261693
+    second: REDSnake_strip7_20
+  - first:
+      213: 1279787536067160674
+    second: REDSnake_strip7_21
+  - first:
+      213: 8970033394014705128
+    second: REDSnake_strip7_22
+  - first:
+      213: 5593549785609069153
+    second: REDSnake_strip7_23
+  - first:
+      213: 7552976812772909170
+    second: REDSnake_strip7_24
+  - first:
+      213: -1979631181168402330
+    second: REDSnake_strip7_25
+  - first:
+      213: 1249351168396176497
+    second: REDSnake_strip7_26
+  - first:
+      213: -2699266539643405354
+    second: REDSnake_strip7_27
+  - first:
+      213: 6453886485145626745
+    second: REDSnake_strip7_28
+  - first:
+      213: -4227989379722140212
+    second: REDSnake_strip7_29
+  - first:
+      213: -9006532262670005281
+    second: REDSnake_strip7_30
+  - first:
+      213: 7079487848992770254
+    second: REDSnake_strip7_31
+  - first:
+      213: -6183626495734450369
+    second: REDSnake_strip7_32
+  - first:
+      213: -6975302090168354899
+    second: REDSnake_strip7_33
+  - first:
+      213: 5299343152009092934
+    second: REDSnake_strip7_34
+  - first:
+      213: -7391919309102782622
+    second: REDSnake_strip7_35
+  - first:
+      213: 1942996635398085112
+    second: REDSnake_strip7_36
+  - first:
+      213: -4355088429992373438
+    second: REDSnake_strip7_37
+  - first:
+      213: -7656214052074519234
+    second: REDSnake_strip7_38
+  - first:
+      213: 3387588838180644667
+    second: REDSnake_strip7_39
+  - first:
+      213: 1110037045814863082
+    second: REDSnake_strip7_40
+  - first:
+      213: -6054352373060036824
+    second: REDSnake_strip7_41
+  - first:
+      213: 672548936105782822
+    second: REDSnake_strip7_42
+  - first:
+      213: 4198451876728579319
+    second: REDSnake_strip7_43
+  - first:
+      213: 7283751169740514622
+    second: REDSnake_strip7_44
+  - first:
+      213: -4927991033744783691
+    second: REDSnake_strip7_45
+  - first:
+      213: 2908053824846715945
+    second: REDSnake_strip7_46
+  - first:
+      213: 3876478530216785434
+    second: REDSnake_strip7_47
+  - first:
+      213: -7176049424198578747
+    second: REDSnake_strip7_48
+  - first:
+      213: 3203648370719266372
+    second: REDSnake_strip7_49
+  - first:
+      213: -2978220090924341697
+    second: REDSnake_strip7_50
+  - first:
+      213: -7141343316121544917
+    second: REDSnake_strip7_51
+  - first:
+      213: 857454908985573209
+    second: REDSnake_strip7_52
+  - first:
+      213: -3791860458741968459
+    second: REDSnake_strip7_53
+  - first:
+      213: 6945756558543329796
+    second: REDSnake_strip7_54
+  - first:
+      213: -8831475304924870159
+    second: REDSnake_strip7_55
+  - first:
+      213: -2851285458603429901
+    second: REDSnake_strip7_56
+  - first:
+      213: -5908063189264439638
+    second: REDSnake_strip7_57
+  - first:
+      213: 7712361981004764693
+    second: REDSnake_strip7_58
+  - first:
+      213: -6648269765358017519
+    second: REDSnake_strip7_59
+  - first:
+      213: 7885151197862829757
+    second: REDSnake_strip7_60
+  - first:
+      213: -6928668176663326912
+    second: REDSnake_strip7_61
+  - first:
+      213: 2245665334283979527
+    second: REDSnake_strip7_62
+  - first:
+      213: 4151348791088775640
+    second: REDSnake_strip7_63
+  - first:
+      213: -3938324496888401622
+    second: REDSnake_strip7_64
+  - first:
+      213: -4040497640109595944
+    second: REDSnake_strip7_65
+  - first:
+      213: 4761737477210178197
+    second: REDSnake_strip7_66
+  - first:
+      213: -6402181821765178800
+    second: REDSnake_strip7_67
+  - first:
+      213: -3400162691181935267
+    second: REDSnake_strip7_68
+  - first:
+      213: -2956500518710400824
+    second: REDSnake_strip7_69
+  - first:
+      213: 1084083834071682690
+    second: REDSnake_strip7_70
+  - first:
+      213: -1518342154836321490
+    second: REDSnake_strip7_71
+  - first:
+      213: -6184902958903553940
+    second: REDSnake_strip7_72
+  - first:
+      213: 8119302619297691155
+    second: REDSnake_strip7_73
+  - first:
+      213: 8399381452073341544
+    second: REDSnake_strip7_74
+  - first:
+      213: -6298795800180136909
+    second: REDSnake_strip7_75
+  - first:
+      213: 8556971302849069355
+    second: REDSnake_strip7_76
+  - first:
+      213: -6856106705266463978
+    second: REDSnake_strip7_77
+  - first:
+      213: 7551217096341493812
+    second: REDSnake_strip7_78
+  - first:
+      213: -3641214834790729021
+    second: REDSnake_strip7_79
+  - first:
+      213: 2704359265837499732
+    second: REDSnake_strip7_80
+  - first:
+      213: -8892930358594368022
+    second: REDSnake_strip7_81
+  - first:
+      213: 6728761096222428549
+    second: REDSnake_strip7_82
+  - first:
+      213: 3076818030732829364
+    second: REDSnake_strip7_83
+  - first:
+      213: -2886407109917077701
+    second: REDSnake_strip7_84
+  - first:
+      213: -2073010999993948968
+    second: REDSnake_strip7_85
+  - first:
+      213: -5690972077913713148
+    second: REDSnake_strip7_86
+  - first:
+      213: 546370552568905256
+    second: REDSnake_strip7_87
+  - first:
+      213: 1338262400778825209
+    second: REDSnake_strip7_88
+  - first:
+      213: -155668544801052537
+    second: REDSnake_strip7_89
+  - first:
+      213: 5169189897070064734
+    second: REDSnake_strip7_90
+  - first:
+      213: 9222447127050550845
+    second: REDSnake_strip7_91
+  - first:
+      213: -6744736543639826249
+    second: REDSnake_strip7_92
+  - first:
+      213: 1207524823568389466
+    second: REDSnake_strip7_93
+  - first:
+      213: 886492119583840945
+    second: REDSnake_strip7_94
+  - first:
+      213: -3325394216590271976
+    second: REDSnake_strip7_95
+  - first:
+      213: -4182140014101135101
+    second: REDSnake_strip7_96
+  - first:
+      213: -7711236838273176646
+    second: REDSnake_strip7_97
+  - first:
+      213: 8678490057131542443
+    second: REDSnake_strip7_98
+  - first:
+      213: 3819387100637575742
+    second: REDSnake_strip7_99
+  - first:
+      213: 7833023780168777838
+    second: REDSnake_strip7_100
+  - first:
+      213: 9167308260714668467
+    second: REDSnake_strip7_101
+  - first:
+      213: 3194596305312951077
+    second: REDSnake_strip7_102
+  - first:
+      213: -7120429110466655885
+    second: REDSnake_strip7_103
+  - first:
+      213: 5957846521928885367
+    second: REDSnake_strip7_104
+  - first:
+      213: -4149208720544157854
+    second: REDSnake_strip7_105
+  - first:
+      213: 6972101409682912227
+    second: REDSnake_strip7_106
+  - first:
+      213: 7774102493083471772
+    second: REDSnake_strip7_107
+  - first:
+      213: 1332887635116360771
+    second: REDSnake_strip7_108
+  - first:
+      213: 6304636308698724480
+    second: REDSnake_strip7_109
+  - first:
+      213: -2939062003917165831
+    second: REDSnake_strip7_110
+  - first:
+      213: -6711470868474432064
+    second: REDSnake_strip7_111
+  - first:
+      213: -7541218120468572886
+    second: REDSnake_strip7_112
+  - first:
+      213: 6367404091573023398
+    second: REDSnake_strip7_113
+  - first:
+      213: -3207775483485372978
+    second: REDSnake_strip7_114
+  - first:
+      213: -3547512177517177316
+    second: REDSnake_strip7_115
+  - first:
+      213: 4405238553706314214
+    second: REDSnake_strip7_116
+  - first:
+      213: 8516224421959686241
+    second: REDSnake_strip7_117
+  - first:
+      213: -2649340129082596544
+    second: REDSnake_strip7_118
+  - first:
+      213: -8642569703511212178
+    second: REDSnake_strip7_119
+  - first:
+      213: 5428737614184714629
+    second: REDSnake_strip7_120
+  - first:
+      213: 3180252415350910983
+    second: REDSnake_strip7_121
+  - first:
+      213: -6571398986130070261
+    second: REDSnake_strip7_122
+  - first:
+      213: 786951824000905928
+    second: REDSnake_strip7_123
+  - first:
+      213: -7094764417042272331
+    second: REDSnake_strip7_124
+  - first:
+      213: -1820425062630848480
+    second: REDSnake_strip7_125
+  - first:
+      213: -6610200411742845713
+    second: REDSnake_strip7_126
+  - first:
+      213: -7128933748781541126
+    second: REDSnake_strip7_127
+  - first:
+      213: 4457892215837259702
+    second: REDSnake_strip7_128
+  - first:
+      213: 3890576101162211423
+    second: REDSnake_strip7_129
+  - first:
+      213: -412124821343935436
+    second: REDSnake_strip7_130
+  - first:
+      213: 4328909857432510155
+    second: REDSnake_strip7_131
+  - first:
+      213: -6528545356148726357
+    second: REDSnake_strip7_132
+  - first:
+      213: -8582358263953176783
+    second: REDSnake_strip7_133
+  - first:
+      213: -8650894090266561750
+    second: REDSnake_strip7_134
+  - first:
+      213: -5174234394282495918
+    second: REDSnake_strip7_135
+  - first:
+      213: 2016542195638340992
+    second: REDSnake_strip7_136
+  - first:
+      213: 9160100282014714879
+    second: REDSnake_strip7_137
+  - first:
+      213: 5292622969267578019
+    second: REDSnake_strip7_138
+  - first:
+      213: -7428118959183302054
+    second: REDSnake_strip7_139
+  - first:
+      213: -8656457135227770555
+    second: REDSnake_strip7_140
+  - first:
+      213: 3615435095069116268
+    second: REDSnake_strip7_141
+  - first:
+      213: 5763640292460588842
+    second: REDSnake_strip7_142
+  - first:
+      213: -1414409976784484312
+    second: REDSnake_strip7_143
+  - first:
+      213: 6218138214407470492
+    second: REDSnake_strip7_144
+  - first:
+      213: -131027248618897606
+    second: REDSnake_strip7_145
+  - first:
+      213: -4636474987969275861
+    second: REDSnake_strip7_146
+  - first:
+      213: -327825548268515230
+    second: REDSnake_strip7_147
+  - first:
+      213: 7497986422229064369
+    second: REDSnake_strip7_148
+  - first:
+      213: 6169533570641879107
+    second: REDSnake_strip7_149
+  - first:
+      213: 2054962254716242103
+    second: REDSnake_strip7_150
+  - first:
+      213: 2572114105606550213
+    second: REDSnake_strip7_151
+  - first:
+      213: 1157690060493988087
+    second: REDSnake_strip7_152
+  - first:
+      213: -8867961239354701023
+    second: REDSnake_strip7_153
+  - first:
+      213: 995374875953603882
+    second: REDSnake_strip7_154
+  - first:
+      213: 8523201542827024544
+    second: REDSnake_strip7_155
+  - first:
+      213: -7386774049814547458
+    second: REDSnake_strip7_156
+  - first:
+      213: 5121543422406109331
+    second: REDSnake_strip7_157
+  - first:
+      213: -5781694990398737961
+    second: REDSnake_strip7_158
+  - first:
+      213: 2453059254362047355
+    second: REDSnake_strip7_159
+  - first:
+      213: 7458574396263302917
+    second: REDSnake_strip7_160
+  - first:
+      213: -386656753704145679
+    second: REDSnake_strip7_161
+  - first:
+      213: 8706211535869049442
+    second: REDSnake_strip7_162
+  - first:
+      213: 5887001042007018153
+    second: REDSnake_strip7_163
+  - first:
+      213: 7189997389255081612
+    second: REDSnake_strip7_164
+  - first:
+      213: -2700376969420836778
+    second: REDSnake_strip7_165
+  - first:
+      213: 8365686944400985602
+    second: REDSnake_strip7_166
+  - first:
+      213: 2947868295401037144
+    second: REDSnake_strip7_167
+  - first:
+      213: 7896920147019174586
+    second: REDSnake_strip7_168
+  - first:
+      213: 4154751511651721172
+    second: REDSnake_strip7_169
+  - first:
+      213: -8817419801929830008
+    second: REDSnake_strip7_170
+  - first:
+      213: 6954546202385728435
+    second: REDSnake_strip7_171
+  - first:
+      213: 2779577080642330824
+    second: REDSnake_strip7_172
+  - first:
+      213: 5384017069946517431
+    second: REDSnake_strip7_173
+  - first:
+      213: -4664405634078021338
+    second: REDSnake_strip7_174
+  - first:
+      213: 7482617215081578167
+    second: REDSnake_strip7_175
+  - first:
+      213: 8308389824933500852
+    second: REDSnake_strip7_176
+  - first:
+      213: -3635693520483217790
+    second: REDSnake_strip7_177
+  - first:
+      213: 6772808621482658426
+    second: REDSnake_strip7_178
+  - first:
+      213: 579613416171987275
+    second: REDSnake_strip7_179
+  - first:
+      213: 6830772064978862839
+    second: REDSnake_strip7_180
+  - first:
+      213: 4791906991966503410
+    second: REDSnake_strip7_181
+  - first:
+      213: -6871702011725612718
+    second: REDSnake_strip7_182
+  - first:
+      213: 5954150131098762578
+    second: REDSnake_strip7_183
+  - first:
+      213: -4909480482373704455
+    second: REDSnake_strip7_184
+  - first:
+      213: -3032091098554401374
+    second: REDSnake_strip7_185
+  - first:
+      213: -714610204337936516
+    second: REDSnake_strip7_186
+  - first:
+      213: 7082214527653237264
+    second: REDSnake_strip7_187
+  - first:
+      213: -5377101459281742259
+    second: REDSnake_strip7_188
+  - first:
+      213: 6641944038215265650
+    second: REDSnake_strip7_189
+  - first:
+      213: -2470430616501626395
+    second: REDSnake_strip7_190
+  - first:
+      213: 5072075969019682321
+    second: REDSnake_strip7_191
+  - first:
+      213: 1748649601442476337
+    second: REDSnake_strip7_192
+  - first:
+      213: 1664585649094907490
+    second: REDSnake_strip7_193
+  - first:
+      213: 1502280857956574899
+    second: REDSnake_strip7_194
+  - first:
+      213: -5653311630050110370
+    second: REDSnake_strip7_195
+  - first:
+      213: 3430502946270737
+    second: REDSnake_strip7_196
+  - first:
+      213: -610108681725512595
+    second: REDSnake_strip7_197
+  - first:
+      213: 3122567788879893107
+    second: REDSnake_strip7_198
+  - first:
+      213: -1812710941366241059
+    second: REDSnake_strip7_199
+  - first:
+      213: -4903696720990159266
+    second: REDSnake_strip7_200
+  - first:
+      213: 7562432775733756035
+    second: REDSnake_strip7_201
+  - first:
+      213: -8094074595130606485
+    second: REDSnake_strip7_202
+  - first:
+      213: 5667603230841932248
+    second: REDSnake_strip7_203
+  - first:
+      213: 1656313196381548585
+    second: REDSnake_strip7_204
+  - first:
+      213: 806672816301152243
+    second: REDSnake_strip7_205
+  - first:
+      213: -4081223228279770405
+    second: REDSnake_strip7_206
+  - first:
+      213: -5990385623915794882
+    second: REDSnake_strip7_207
+  - first:
+      213: 9028254957073753818
+    second: REDSnake_strip7_208
+  - first:
+      213: 5718154540585835541
+    second: REDSnake_strip7_209
+  - first:
+      213: 7451686811345199167
+    second: REDSnake_strip7_210
+  - first:
+      213: -7366592915398241089
+    second: REDSnake_strip7_211
+  - first:
+      213: 3789247539497904320
+    second: REDSnake_strip7_212
+  - first:
+      213: -2170476509113387950
+    second: REDSnake_strip7_213
+  - first:
+      213: 4631291965774978488
+    second: REDSnake_strip7_214
+  - first:
+      213: 7322465347748593878
+    second: REDSnake_strip7_215
+  - first:
+      213: 1107712230435726419
+    second: REDSnake_strip7_216
+  - first:
+      213: 9169590523580196131
+    second: REDSnake_strip7_217
+  - first:
+      213: 2221135069536430614
+    second: REDSnake_strip7_218
+  - first:
+      213: 5809480033388650983
+    second: REDSnake_strip7_219
+  - first:
+      213: -4067146959981792405
+    second: REDSnake_strip7_220
+  - first:
+      213: -8241339293436917241
+    second: REDSnake_strip7_221
+  - first:
+      213: -7047802652063593495
+    second: REDSnake_strip7_222
+  - first:
+      213: 8827023078183746611
+    second: REDSnake_strip7_223
+  - first:
+      213: -7955976348506378267
+    second: REDSnake_strip7_224
+  - first:
+      213: 6535239978513370032
+    second: REDSnake_strip7_225
+  - first:
+      213: -4620813666716584784
+    second: REDSnake_strip7_226
+  - first:
+      213: 8995154438937823687
+    second: REDSnake_strip7_227
+  - first:
+      213: 277152346734812554
+    second: REDSnake_strip7_228
+  - first:
+      213: 8369729940047162524
+    second: REDSnake_strip7_229
+  - first:
+      213: 6016171361624050247
+    second: REDSnake_strip7_230
+  - first:
+      213: 5071731862575468740
+    second: REDSnake_strip7_231
+  - first:
+      213: -7870718908836985312
+    second: REDSnake_strip7_232
+  - first:
+      213: -4147147218467705200
+    second: REDSnake_strip7_233
+  - first:
+      213: -1765336248311442539
+    second: REDSnake_strip7_234
+  - first:
+      213: 5418021900871556424
+    second: REDSnake_strip7_235
+  - first:
+      213: -8378338460827037918
+    second: REDSnake_strip7_236
+  - first:
+      213: 8789199172148009668
+    second: REDSnake_strip7_237
+  - first:
+      213: 2977521412189794864
+    second: REDSnake_strip7_238
+  - first:
+      213: -5257941131061157616
+    second: REDSnake_strip7_239
+  - first:
+      213: -6851648779237390149
+    second: REDSnake_strip7_240
+  - first:
+      213: 4519579436563890145
+    second: REDSnake_strip7_241
+  - first:
+      213: -8564163426962602561
+    second: REDSnake_strip7_242
+  - first:
+      213: 2956345265339876786
+    second: REDSnake_strip7_243
+  - first:
+      213: 2589322470262221351
+    second: REDSnake_strip7_244
+  - first:
+      213: 8641528061178708762
+    second: REDSnake_strip7_245
+  - first:
+      213: -2637040300681040359
+    second: REDSnake_strip7_246
+  - first:
+      213: -3347129468442416131
+    second: REDSnake_strip7_247
+  - first:
+      213: 6277852947479439548
+    second: REDSnake_strip7_248
+  - first:
+      213: 5373917792194839855
+    second: REDSnake_strip7_249
+  - first:
+      213: -2145703135910950871
+    second: REDSnake_strip7_250
+  - first:
+      213: -3370519623442718590
+    second: REDSnake_strip7_251
+  - first:
+      213: -7071476797909859161
+    second: REDSnake_strip7_252
+  - first:
+      213: -6728030156560849278
+    second: REDSnake_strip7_253
+  - first:
+      213: -8197322269984877361
+    second: REDSnake_strip7_254
+  - first:
+      213: -7397837836428589649
+    second: REDSnake_strip7_255
+  - first:
+      213: 8976023321216260245
+    second: REDSnake_strip7_256
+  - first:
+      213: -4972931248384045816
+    second: REDSnake_strip7_257
+  - first:
+      213: 921848409144207651
+    second: REDSnake_strip7_258
+  - first:
+      213: -8482433358223269515
+    second: REDSnake_strip7_259
+  - first:
+      213: 1044093196746452336
+    second: REDSnake_strip7_260
+  - first:
+      213: -6293622758015050265
+    second: REDSnake_strip7_261
+  - first:
+      213: 42944489933078226
+    second: REDSnake_strip7_262
+  - first:
+      213: 4254348295631828180
+    second: REDSnake_strip7_263
+  - first:
+      213: -3318601601918062866
+    second: REDSnake_strip7_264
+  - first:
+      213: 2958783275483235771
+    second: REDSnake_strip7_265
+  - first:
+      213: 4131405839688361590
+    second: REDSnake_strip7_266
+  - first:
+      213: 9191838256567127372
+    second: REDSnake_strip7_267
+  - first:
+      213: -6511022152124519386
+    second: REDSnake_strip7_268
+  - first:
+      213: -8786458415735540675
+    second: REDSnake_strip7_269
+  - first:
+      213: -156387850873301568
+    second: REDSnake_strip7_270
+  - first:
+      213: -3108103552420996577
+    second: REDSnake_strip7_271
+  - first:
+      213: 8250709693725119899
+    second: REDSnake_strip7_272
+  - first:
+      213: -1090061747363484235
+    second: REDSnake_strip7_273
+  - first:
+      213: 5732445160873216392
+    second: REDSnake_strip7_274
+  - first:
+      213: -3429115778342278460
+    second: REDSnake_strip7_275
+  - first:
+      213: 3654311340777932125
+    second: REDSnake_strip7_276
+  - first:
+      213: 3436716500730387943
+    second: REDSnake_strip7_277
+  - first:
+      213: 5859973883639365584
+    second: REDSnake_strip7_278
+  - first:
+      213: 8468093428380003791
+    second: REDSnake_strip7_279
+  - first:
+      213: 160579584750640540
+    second: REDSnake_strip7_280
+  - first:
+      213: 2926975231769520
+    second: REDSnake_strip7_281
+  - first:
+      213: 1521914570683311416
+    second: REDSnake_strip7_282
+  - first:
+      213: -2035577311993571603
+    second: REDSnake_strip7_283
+  - first:
+      213: -4004968108635895084
+    second: REDSnake_strip7_284
+  - first:
+      213: -4982556202353669579
+    second: REDSnake_strip7_285
+  - first:
+      213: 3420736776186919991
+    second: REDSnake_strip7_286
+  - first:
+      213: -1202429852741345823
+    second: REDSnake_strip7_287
+  - first:
+      213: 4242300369851915228
+    second: REDSnake_strip7_288
+  - first:
+      213: 1415198114609921944
+    second: REDSnake_strip7_289
+  - first:
+      213: -8321600926799232724
+    second: REDSnake_strip7_290
+  - first:
+      213: 2589944120331435080
+    second: REDSnake_strip7_291
+  - first:
+      213: 1512493277163116097
+    second: REDSnake_strip7_292
+  - first:
+      213: 7949055177237356053
+    second: REDSnake_strip7_293
+  - first:
+      213: -4629143294545039419
+    second: REDSnake_strip7_294
+  - first:
+      213: -7285398373069269536
+    second: REDSnake_strip7_295
+  - first:
+      213: 532446576638984950
+    second: REDSnake_strip7_296
+  - first:
+      213: 3783611741961468627
+    second: REDSnake_strip7_297
+  - first:
+      213: -8231913715759699678
+    second: REDSnake_strip7_298
+  - first:
+      213: 4554882024386788153
+    second: REDSnake_strip7_299
+  - first:
+      213: -1110071684008595797
+    second: REDSnake_strip7_300
+  - first:
+      213: 1853359116629584322
+    second: REDSnake_strip7_301
+  - first:
+      213: 6401914731265421952
+    second: REDSnake_strip7_302
+  - first:
+      213: -5935433959438863253
+    second: REDSnake_strip7_303
+  - first:
+      213: 6667011860279958048
+    second: REDSnake_strip7_304
+  - first:
+      213: -300519248506707529
+    second: REDSnake_strip7_305
+  - first:
+      213: -1342909071894687054
+    second: REDSnake_strip7_306
+  - first:
+      213: -921789365518933332
+    second: REDSnake_strip7_307
+  - first:
+      213: -3638783266434004622
+    second: REDSnake_strip7_308
+  - first:
+      213: 5252473046517409611
+    second: REDSnake_strip7_309
+  - first:
+      213: 4950399814848501217
+    second: REDSnake_strip7_310
+  - first:
+      213: -2868473058193314954
+    second: REDSnake_strip7_311
+  - first:
+      213: 4954698176189957244
+    second: REDSnake_strip7_312
+  - first:
+      213: -4294612364196678650
+    second: REDSnake_strip7_313
+  - first:
+      213: 1251381246393113083
+    second: REDSnake_strip7_314
+  - first:
+      213: 1692997041774619948
+    second: REDSnake_strip7_315
+  - first:
+      213: 4145477189625125967
+    second: REDSnake_strip7_316
+  - first:
+      213: 4080349105882786221
+    second: REDSnake_strip7_317
+  - first:
+      213: 4358515268573079865
+    second: REDSnake_strip7_318
+  - first:
+      213: 2546374287315835995
+    second: REDSnake_strip7_319
+  - first:
+      213: 6169128289976742847
+    second: REDSnake_strip7_320
+  - first:
+      213: 3906576275291745733
+    second: REDSnake_strip7_321
+  - first:
+      213: -2270252270559789396
+    second: REDSnake_strip7_322
+  - first:
+      213: -6725488699193071932
+    second: REDSnake_strip7_323
+  - first:
+      213: -2590777894903934229
+    second: REDSnake_strip7_324
+  - first:
+      213: -3223964753155607774
+    second: REDSnake_strip7_325
+  - first:
+      213: 2547074629229819675
+    second: REDSnake_strip7_326
+  - first:
+      213: -4191825295106618230
+    second: REDSnake_strip7_327
+  - first:
+      213: 7343839616291413583
+    second: REDSnake_strip7_328
+  - first:
+      213: 1660696336089684894
+    second: REDSnake_strip7_329
+  - first:
+      213: 7754967217228043416
+    second: REDSnake_strip7_330
+  - first:
+      213: 1382140177756739452
+    second: REDSnake_strip7_331
+  - first:
+      213: 35529935562550066
+    second: REDSnake_strip7_332
+  - first:
+      213: 7291324527208758049
+    second: REDSnake_strip7_333
+  - first:
+      213: -2287843878522038623
+    second: REDSnake_strip7_334
+  - first:
+      213: -3772350015849126382
+    second: REDSnake_strip7_335
+  - first:
+      213: -2883490842839121210
+    second: REDSnake_strip7_336
+  - first:
+      213: 3760213974039175771
+    second: REDSnake_strip7_337
+  - first:
+      213: -5384326050396871564
+    second: REDSnake_strip7_338
+  - first:
+      213: -34853053777200237
+    second: REDSnake_strip7_339
+  - first:
+      213: 6161487882931061741
+    second: REDSnake_strip7_340
+  - first:
+      213: -4795323197810170934
+    second: REDSnake_strip7_341
+  - first:
+      213: 3838601424523571144
+    second: REDSnake_strip7_342
+  - first:
+      213: -10981267639998386
+    second: REDSnake_strip7_343
+  - first:
+      213: 235418738990194013
+    second: REDSnake_strip7_344
+  - first:
+      213: -2262446557026794036
+    second: REDSnake_strip7_345
+  - first:
+      213: -8226154730604227112
+    second: REDSnake_strip7_346
+  - first:
+      213: -6149826072634591935
+    second: REDSnake_strip7_347
+  - first:
+      213: 2687125160824567524
+    second: REDSnake_strip7_348
+  - first:
+      213: -6496457443773866292
+    second: REDSnake_strip7_349
+  - first:
+      213: -4083182586081008168
+    second: REDSnake_strip7_350
+  - first:
+      213: 7275361670490283521
+    second: REDSnake_strip7_351
+  - first:
+      213: -3526911033439882865
+    second: REDSnake_strip7_352
+  - first:
+      213: -219503369624778665
+    second: REDSnake_strip7_353
+  - first:
+      213: -5037439948319442180
+    second: REDSnake_strip7_354
+  - first:
+      213: 8957145703685810325
+    second: REDSnake_strip7_355
+  - first:
+      213: -974066830333055263
+    second: REDSnake_strip7_356
+  - first:
+      213: 3800471151732928237
+    second: REDSnake_strip7_357
+  - first:
+      213: 7258764958496061461
+    second: REDSnake_strip7_358
+  - first:
+      213: 5226401027216216041
+    second: REDSnake_strip7_359
+  - first:
+      213: 2283098089978289105
+    second: REDSnake_strip7_360
+  - first:
+      213: 2641736194556241234
+    second: REDSnake_strip7_361
+  - first:
+      213: -8626864658138712551
+    second: REDSnake_strip7_362
+  - first:
+      213: -7977406103804547539
+    second: REDSnake_strip7_363
+  - first:
+      213: 3792394759093372472
+    second: REDSnake_strip7_364
+  - first:
+      213: 4525318562910800073
+    second: REDSnake_strip7_365
+  - first:
+      213: -7762887606593610836
+    second: REDSnake_strip7_366
+  - first:
+      213: 7713684290822581697
+    second: REDSnake_strip7_367
+  - first:
+      213: 7939679976717796878
+    second: REDSnake_strip7_368
+  - first:
+      213: -7978008522071606917
+    second: REDSnake_strip7_369
+  - first:
+      213: -5330969898864866233
+    second: REDSnake_strip7_370
+  - first:
+      213: -8148496549966330011
+    second: REDSnake_strip7_371
+  - first:
+      213: 8112099483849998181
+    second: REDSnake_strip7_372
+  - first:
+      213: -3712801834049363599
+    second: REDSnake_strip7_373
+  - first:
+      213: 3301506911277958557
+    second: REDSnake_strip7_374
+  - first:
+      213: 459233303480734818
+    second: REDSnake_strip7_375
+  - first:
+      213: 1174854786665189156
+    second: REDSnake_strip7_376
+  - first:
+      213: -9107819675727386044
+    second: REDSnake_strip7_377
+  - first:
+      213: -3615315739376810919
+    second: REDSnake_strip7_378
+  - first:
+      213: 5904440982006190500
+    second: REDSnake_strip7_379
+  - first:
+      213: 3034092607275940357
+    second: REDSnake_strip7_380
+  - first:
+      213: 5032215139201401490
+    second: REDSnake_strip7_381
+  - first:
+      213: 5663318507238824958
+    second: REDSnake_strip7_382
+  - first:
+      213: 4084501902484735994
+    second: REDSnake_strip7_383
+  - first:
+      213: -6636599849548784086
+    second: REDSnake_strip7_384
+  - first:
+      213: -4089032954309032115
+    second: REDSnake_strip7_385
+  - first:
+      213: 1268310471724937778
+    second: REDSnake_strip7_386
+  - first:
+      213: -2135248880125081890
+    second: REDSnake_strip7_387
+  - first:
+      213: -7526591169179592672
+    second: REDSnake_strip7_388
+  - first:
+      213: 8629761902186568815
+    second: REDSnake_strip7_389
+  - first:
+      213: -3298198892851235113
+    second: REDSnake_strip7_390
+  - first:
+      213: -615133821173599239
+    second: REDSnake_strip7_391
+  - first:
+      213: -1926115101231823281
+    second: REDSnake_strip7_392
+  - first:
+      213: -2127471476058847492
+    second: REDSnake_strip7_393
+  - first:
+      213: 7615391791325169251
+    second: REDSnake_strip7_394
+  - first:
+      213: -8210393962989438408
+    second: REDSnake_strip7_395
+  - first:
+      213: 2641103858155839357
+    second: REDSnake_strip7_396
+  - first:
+      213: -167798000629314231
+    second: REDSnake_strip7_397
+  - first:
+      213: 2580313541212266409
+    second: REDSnake_strip7_398
+  - first:
+      213: 3789780488950881455
+    second: REDSnake_strip7_399
+  - first:
+      213: -8836156008348552161
+    second: REDSnake_strip7_400
+  - first:
+      213: 5449459787079616862
+    second: REDSnake_strip7_401
+  - first:
+      213: -987259634184794644
+    second: REDSnake_strip7_402
+  - first:
+      213: 6943540090054385881
+    second: REDSnake_strip7_403
+  - first:
+      213: 2941352497530567655
+    second: REDSnake_strip7_404
+  - first:
+      213: -7277203325166800418
+    second: REDSnake_strip7_405
+  - first:
+      213: 921408558555642348
+    second: REDSnake_strip7_406
+  - first:
+      213: 8598791341887637736
+    second: REDSnake_strip7_407
+  - first:
+      213: -1060402492273660801
+    second: REDSnake_strip7_408
+  - first:
+      213: 585550311347826880
+    second: REDSnake_strip7_409
+  - first:
+      213: -8339788454388735673
+    second: REDSnake_strip7_410
+  - first:
+      213: -4161066633567734590
+    second: REDSnake_strip7_411
+  - first:
+      213: 2395257354338002347
+    second: REDSnake_strip7_412
+  - first:
+      213: -6260756093650406940
+    second: REDSnake_strip7_413
+  - first:
+      213: -5868357548605752893
+    second: REDSnake_strip7_414
+  - first:
+      213: 6671835185429791826
+    second: REDSnake_strip7_415
+  - first:
+      213: -2255794566938922644
+    second: REDSnake_strip7_416
+  - first:
+      213: 358046391705930466
+    second: REDSnake_strip7_417
+  - first:
+      213: 5090257498661080314
+    second: REDSnake_strip7_418
+  - first:
+      213: -6324139568219899748
+    second: REDSnake_strip7_419
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: REDSnake_strip7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be22a58d93ebbc40800000000000000
+      internalID: 5529263233218784948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a895e6ac20c728640800000000000000
+      internalID: 5080759681055349130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d264599499cfa0800000000000000
+      internalID: -5779925260486651089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50ea9a7bc1c6d560800000000000000
+      internalID: 7338265722526294109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42524bd69ae7e61b0800000000000000
+      internalID: -5661448415403039452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94e16cb2137f6de0800000000000000
+      internalID: -1337724039998610276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb98e1ca3fd533fe0800000000000000
+      internalID: -1210520573686412865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd42860dcf7cc930800000000000000
+      internalID: 4164844273965092298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3923786e23caf3310800000000000000
+      internalID: 1387016544869364371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09a72142d7938170800000000000000
+      internalID: 8179548277526997262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7824806c31a389f70800000000000000
+      internalID: 9194162495878087303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62a48b841182bd70800000000000000
+      internalID: 9057443725835543151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0926ed3dcf81050800000000000000
+      internalID: 5771640909374591156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194617d4c821c2fa0800000000000000
+      internalID: -5824259824292895599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d460167a3989a150800000000000000
+      internalID: 5884385272318158033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c4b48c8151aff80800000000000000
+      internalID: -8072116185924416408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ddec1054a4eed40800000000000000
+      internalID: 5615507445621120373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_17
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6face117850b22520800000000000000
+      internalID: 2675895022512950006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e4254b297800950800000000000000
+      internalID: 6413274933535854225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_19
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0209a8dae9cd4db0800000000000000
+      internalID: -4805963216839966198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38acb4c173d8bed80800000000000000
+      internalID: -8220321426997261693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a6143cbf7b2c110800000000000000
+      internalID: 1279787536067160674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_22
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e553a9b8d5fb7c70800000000000000
+      internalID: 8970033394014705128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_23
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162e0b4e4e740ad40800000000000000
+      internalID: 5593549785609069153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2706712d46091d860800000000000000
+      internalID: 7552976812772909170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_25
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ab24edefe684e0800000000000000
+      internalID: -1979631181168402330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_26
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c29ffa446965110800000000000000
+      internalID: 1249351168396176497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_27
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf47e22674a8ad0800000000000000
+      internalID: -2699266539643405354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_28
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978acc7609fc09950800000000000000
+      internalID: 6453886485145626745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_29
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5a98b5f0a2355c0800000000000000
+      internalID: -4227989379722140212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb857130ae520380800000000000000
+      internalID: -9006532262670005281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_31
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec888ee90b46f3260800000000000000
+      internalID: 7079487848992770254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_32
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37fd02e6785f2aa0800000000000000
+      internalID: -6183626495734450369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_33
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7b97aa4bfb23f90800000000000000
+      internalID: -6975302090168354899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_34
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f9666058c0b8940800000000000000
+      internalID: 5299343152009092934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_35
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267e39c6d80aa6990800000000000000
+      internalID: -7391919309102782622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_36
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f99eac3529e6fa10800000000000000
+      internalID: 1942996635398085112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_37
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24314eca52e9f83c0800000000000000
+      internalID: -4355088429992373438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_38
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e358ebd42e9afb590800000000000000
+      internalID: -7656214052074519234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_39
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e5d0a912230f20800000000000000
+      internalID: 3387588838180644667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_40
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4a15bdfc4a76f00800000000000000
+      internalID: 1110037045814863082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_41
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82796b2189e9afba0800000000000000
+      internalID: -6054352373060036824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_42
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ee6aea1bf555900800000000000000
+      internalID: 672548936105782822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_43
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4aafeccb5e34a30800000000000000
+      internalID: 4198451876728579319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_44
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3528b01915151560800000000000000
+      internalID: 7283751169740514622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_45
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b60551b3424c9bb0800000000000000
+      internalID: -4927991033744783691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_46
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c54b1db8b7b5820800000000000000
+      internalID: 2908053824846715945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_47
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16fffc4fa40cc530800000000000000
+      internalID: 3876478530216785434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_48
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd4ffba11d896c90800000000000000
+      internalID: -7176049424198578747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_49
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4461bf13835a57c20800000000000000
+      internalID: 3203648370719266372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_50
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e5894b9c3ba6d0800000000000000
+      internalID: -2978220090924341697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_51
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b271777271ad4ec90800000000000000
+      internalID: -7141343316121544917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_52
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ffffc52ba46eb00800000000000000
+      internalID: 857454908985573209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_53
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1d5deb00b906bc0800000000000000
+      internalID: -3791860458741968459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_54
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a90503ac8446060800000000000000
+      internalID: 6945756558543329796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_55
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f98157500c407580800000000000000
+      internalID: -8831475304924870159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_56
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa4be6bf23e68d0800000000000000
+      internalID: -2851285458603429901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_57
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e455e4d7520ea0800000000000000
+      internalID: -5908063189264439638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_58
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51654012c50d70b60800000000000000
+      internalID: 7712361981004764693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_59
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114add85fd99cb3a0800000000000000
+      internalID: -6648269765358017519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_60
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe1cd4bc3fad6d60800000000000000
+      internalID: 7885151197862829757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_61
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fcd63c00d68df90800000000000000
+      internalID: -6928668176663326912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_62
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bc76639b43a2f10800000000000000
+      internalID: 2245665334283979527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_63
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1089f0bbd8c9930800000000000000
+      internalID: 4151348791088775640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_64
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a217fb87cb24859c0800000000000000
+      internalID: -3938324496888401622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_65
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2a675cdc44de7c0800000000000000
+      internalID: -4040497640109595944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_66
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59207cab107151240800000000000000
+      internalID: 4761737477210178197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_67
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a2936ad81e627a0800000000000000
+      internalID: -6402181821765178800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_68
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5580951c0230d0d0800000000000000
+      internalID: -3400162691181935267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_69
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c82204417668f6d0800000000000000
+      internalID: -2956500518710400824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_70
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e069cd0807b0f00800000000000000
+      internalID: 1084083834071682690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_71
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bda7dcad3cdeae0800000000000000
+      internalID: -1518342154836321490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_72
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c609a44278fca2aa0800000000000000
+      internalID: -6184902958903553940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_73
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316332fd6be8da070800000000000000
+      internalID: 8119302619297691155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_74
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86216d7cde8909470800000000000000
+      internalID: 8399381452073341544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_75
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3346a89979e2698a0800000000000000
+      internalID: -6298795800180136909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_76
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21c78b201870c670800000000000000
+      internalID: 8556971302849069355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_77
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b2b6ad6473ad0a0800000000000000
+      internalID: -6856106705266463978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_78
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4389a49e0ff4bc860800000000000000
+      internalID: 7551217096341493812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_79
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca7a65566ec77dc0800000000000000
+      internalID: -3641214834790729021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_80
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455c7498c60d78520800000000000000
+      internalID: 2704359265837499732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_81
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed02b3a4f6f59480800000000000000
+      internalID: -8892930358594368022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_82
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4ec6019c516d50800000000000000
+      internalID: 6728761096222428549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_83
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2e85082bd03ba20800000000000000
+      internalID: 3076818030732829364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_84
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f0b30c60c61f7d0800000000000000
+      internalID: -2886407109917077701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_85
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d422e19a7f2b33e0800000000000000
+      internalID: -2073010999993948968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_86
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40659451c0b9501b0800000000000000
+      internalID: -5690972077913713148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_87
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e7a9d6f19159700800000000000000
+      internalID: 546370552568905256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_88
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdeea62096729210800000000000000
+      internalID: 1338262400778825209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_89
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7886e648844f6ddf0800000000000000
+      internalID: -155668544801052537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_90
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e543667e2d6acb740800000000000000
+      internalID: 5169189897070064734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_91
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e7ba7acc6bcff70800000000000000
+      internalID: 9222447127050550845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_92
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b090c449d1e562a0800000000000000
+      internalID: -6744736543639826249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_93
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a559246ed6df1c010800000000000000
+      internalID: 1207524823568389466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_94
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba5afbc2e37d4c00800000000000000
+      internalID: 886492119583840945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_95
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a9ff52493d9d1d0800000000000000
+      internalID: -3325394216590271976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_96
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3010e8aa0dd06f5c0800000000000000
+      internalID: -4182140014101135101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_97
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb22d393fe2cf490800000000000000
+      internalID: -7711236838273176646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_98
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c512f9b0307870800000000000000
+      internalID: 8678490057131542443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_99
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a36310550310530800000000000000
+      internalID: 3819387100637575742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_100
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c52e70ad74bc60800000000000000
+      internalID: 7833023780168777838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_101
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1e66aea42d83f70800000000000000
+      internalID: 9167308260714668467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_102
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b24faf96c755c20800000000000000
+      internalID: 3194596305312951077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_103
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379c84e13772f2d90800000000000000
+      internalID: -7120429110466655885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_104
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7742edd78d58ea250800000000000000
+      internalID: 5957846521928885367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_105
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f2301f6ac0b66c0800000000000000
+      internalID: -4149208720544157854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_106
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e37626da41e1c060800000000000000
+      internalID: 6972101409682912227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_107
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f08bb470923eb60800000000000000
+      internalID: 7774102493083471772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_108
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3440f900e3e5f7210800000000000000
+      internalID: 1332887635116360771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REDSnake_strip7_109
+      rect:
+        serializedVersion: 2
+        x: 3706
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887402c1519e7750800000000000000
+      internalID: 6304636308698724480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
