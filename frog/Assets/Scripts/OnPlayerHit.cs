@@ -15,12 +15,19 @@ public class OnPlayerHit : MonoBehaviour
     {
         GameObject other = col.gameObject;
         Debug.Log(other.name);
+        //obstacle
         if (other.GetComponent<Obstacle>() != null) {
-
+            GameManager.Instance.OnHit();
         }
+        //non heart collectible
         else if (other.GetComponent<Collectible>() != null) {
-            GameManager.Instance.Score += other.GetComponent<Collectible>().points;
-            score.AddScore();
+            if (other.GetComponent<Heart>() != null) {
+                GameManager.Instance.OnHeartCollect();
+            }
+            else {
+                GameManager.Instance.Score += other.GetComponent<Collectible>().points;
+                score.AddScore();
+            }
             Destroy(other);
             SoundManager.Instance.PlaySound(soundEffects.coin);
         }

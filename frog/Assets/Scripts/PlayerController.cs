@@ -48,6 +48,10 @@ public class PlayerController : MonoBehaviour
         anim.SetBool("isGrounded", isGrounded);
     }
 
+    public void GameOver(bool gameOver) {
+        anim.SetBool("isGameOver",gameOver);
+    }
+
     public void Jump() {
         if (isGrounded) {
             myRigidBody.velocity = new Vector2(jumpingForwardSpeed, jumpForce);
@@ -71,4 +75,5 @@ public class PlayerController : MonoBehaviour
         isSwinging = connect;
         prevRotation = transform.rotation;
     }
+    
 }
