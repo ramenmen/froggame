@@ -52,9 +52,7 @@ public class GameManager : MonoBehaviour
             raritySums[i] = weightSum;
         }
 
-<<<<<<< HEAD
         BGM.Play();
-=======
         difficultySums = new int[difficulty.Length];
         weightSum = 0;
         for (int i = 0; i < difficulty.Length; i++)
@@ -62,7 +60,6 @@ public class GameManager : MonoBehaviour
             weightSum += difficulty[i];
             difficultySums[i] = weightSum;
         }
->>>>>>> 569711bbc09e4147a47062977d45b902be92a8b1
     }
 
     // Start is called before the first frame update
@@ -74,15 +71,12 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-<<<<<<< HEAD
         if (!isGameOver) {
             if (!isPaused && !BGM.isPlaying) {
                 BGM.time = BGM_play_from;
                 BGM.Play();
                 Debug.Log("BGM time/play_from: " + BGM.time + " " + BGM_play_from);
             }
-
-=======
         if (playerController.transform.position.x > startPosition.transform.position.x) {
             instruction.SetActive(false);
         }
@@ -92,8 +86,8 @@ public class GameManager : MonoBehaviour
                 isStarted = true;
             }
         }
+        }
         else if (!isGameOver) {
->>>>>>> 569711bbc09e4147a47062977d45b902be92a8b1
             if (Input.GetKeyDown(KeyCode.Escape)) {
                 PauseGame();
             }
@@ -136,7 +130,6 @@ public class GameManager : MonoBehaviour
 
     void GameOver (bool gameOver)
     {
-<<<<<<< HEAD
         isGameOver = !isGameOver;
 
         if (BGM.isPlaying) {
@@ -144,9 +137,7 @@ public class GameManager : MonoBehaviour
             AmbientSound.Play();
         }
 
-=======
         isGameOver = gameOver;
->>>>>>> 569711bbc09e4147a47062977d45b902be92a8b1
         if (isGameOver) {
             Time.timeScale = 0;
             playerController.ShootTongue(false);
@@ -198,3 +189,4 @@ public class GameManager : MonoBehaviour
     }
 
 }
+
