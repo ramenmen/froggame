@@ -20,6 +20,13 @@ public class Lives : MonoBehaviour
         
     }
 
+    public void Restart()
+    {
+        foreach (GameObject heart in hearts) {
+            heart.SetActive(true);
+        }
+    }
+
     public void LoseLife()
     {
         foreach (GameObject heart in hearts) {
