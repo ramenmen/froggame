@@ -13,12 +13,14 @@ public class PlayerController : MonoBehaviour
     public bool isSwinging;
     private Tongue tongue;
     public bool isLanding;
+    public bool isGameStarted;
 
     private Quaternion prevRotation;
 
     // Start is called before the first frame update
     void Start()
     {
+        isGameStarted = false;
         anim = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
         tongue = GetComponentInChildren<Tongue>();
@@ -28,27 +30,30 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        isLanding = myRigidBody.rotation != 0;
+        if (isGameStarted) {
+            isLanding = myRigidBody.rotation != 0;
 
-        if(isLanding && !isSwinging) {
-           myRigidBody.MoveRotation(Quaternion.identity);
-           
+            if(isLanding && !isSwinging) {
+            myRigidBody.MoveRotation(Quaternion.identity);
+            
+            }
+            
+            isGrounded = transform.position.y <= 0;
+            
+            if (isSwinging) {
+                //Debug.Log(myRigidBody.rotation);
+            }
+            else if (!isGrounded) {
+                myRigidBody.velocity = new Vector2(jumpingForwardSpeed, myRigidBody.velocity.y);
+            }
+            else {
+                myRigidBody.velocity = new Vector2(moveSpeed, myRigidBody.velocity.y);
+            }
+
+            anim.SetFloat("Speed", myRigidBody.velocity.x);
+            anim.SetBool("isGrounded", isGrounded);
         }
         
-        isGrounded = transform.position.y <= 0;
-        
-        if (isSwinging) {
-            //Debug.Log(myRigidBody.rotation);
-        }
-        else if (!isGrounded) {
-            myRigidBody.velocity = new Vector2(jumpingForwardSpeed, myRigidBody.velocity.y);
-        }
-        else {
-            myRigidBody.velocity = new Vector2(moveSpeed, myRigidBody.velocity.y);
-        }
-
-        anim.SetFloat("Speed", myRigidBody.velocity.x);
-        anim.SetBool("isGrounded", isGrounded);
     }
 
     public void GameOver(bool gameOver) {

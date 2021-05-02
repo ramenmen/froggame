@@ -5,7 +5,9 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public GameObject gameOverScreen;
+    public GameObject startScreen;
     public GameObject instructionAndScore;
+    public GameObject instruction;
     public GameObject pauseScreen;
     public PlayerController playerController;
     public GameObject startPosition;
@@ -15,13 +17,15 @@ public class GameManager : MonoBehaviour
     public int[] rarities;
     public int[] raritySums;
 
-    public Obstacle[] obstacles;
+    public GameObject[] obstacles;
     public int[] difficulty;
+    public int[] difficultySums;
 
     public int Score;
     public int Lives;
     bool isPaused = false;
     bool isGameOver = false;
+    bool isStarted = false;
 
     public AudioSource BGM;
     public AudioSource AmbientSound;
@@ -39,9 +43,8 @@ public class GameManager : MonoBehaviour
         } else {
             _instance = this;
         }
-        raritySums = new int[rarities.Length];
 
-        // Get the total sum of all the weights.
+        raritySums = new int[rarities.Length];
         int weightSum = 0;
         for (int i = 0; i < rarities.Length; i++)
         {
@@ -49,18 +52,29 @@ public class GameManager : MonoBehaviour
             raritySums[i] = weightSum;
         }
 
+<<<<<<< HEAD
         BGM.Play();
+=======
+        difficultySums = new int[difficulty.Length];
+        weightSum = 0;
+        for (int i = 0; i < difficulty.Length; i++)
+        {
+            weightSum += difficulty[i];
+            difficultySums[i] = weightSum;
+        }
+>>>>>>> 569711bbc09e4147a47062977d45b902be92a8b1
     }
 
     // Start is called before the first frame update
     void Start()
     {
-        NewGame();
+        StartScreen();
     }
 
     // Update is called once per frame
     void Update()
     {
+<<<<<<< HEAD
         if (!isGameOver) {
             if (!isPaused && !BGM.isPlaying) {
                 BGM.time = BGM_play_from;
@@ -68,6 +82,18 @@ public class GameManager : MonoBehaviour
                 Debug.Log("BGM time/play_from: " + BGM.time + " " + BGM_play_from);
             }
 
+=======
+        if (playerController.transform.position.x > startPosition.transform.position.x) {
+            instruction.SetActive(false);
+        }
+        if (!isStarted) {
+            if (Input.GetKeyDown("space")) {
+                NewGame();
+                isStarted = true;
+            }
+        }
+        else if (!isGameOver) {
+>>>>>>> 569711bbc09e4147a47062977d45b902be92a8b1
             if (Input.GetKeyDown(KeyCode.Escape)) {
                 PauseGame();
             }
@@ -81,7 +107,7 @@ public class GameManager : MonoBehaviour
             }
         }
         else if (Input.GetKeyDown("space")) {
-            GameOver();
+            GameOver(false);
         }
         // Debug.Log("BGM time: " + BGM.time);
     }
@@ -108,8 +134,9 @@ public class GameManager : MonoBehaviour
         pauseScreen.GetComponentInChildren<Score>().AddScore();
     }
 
-    void GameOver ()
+    void GameOver (bool gameOver)
     {
+<<<<<<< HEAD
         isGameOver = !isGameOver;
 
         if (BGM.isPlaying) {
@@ -117,6 +144,9 @@ public class GameManager : MonoBehaviour
             AmbientSound.Play();
         }
 
+=======
+        isGameOver = gameOver;
+>>>>>>> 569711bbc09e4147a47062977d45b902be92a8b1
         if (isGameOver) {
             Time.timeScale = 0;
             playerController.ShootTongue(false);
@@ -136,13 +166,24 @@ public class GameManager : MonoBehaviour
     void NewGame() {
         Score = 0;
         Lives = 3;
+        Time.timeScale = 1;
+        instructionAndScore.SetActive(true);
+        startScreen.SetActive(false);
+        playerController.isGameStarted = true;
+        livesHolder.Restart();
+    }
+
+    void StartScreen() {
+        startScreen.SetActive(true);
+        instructionAndScore.SetActive(false);
+        //Time.timeScale = 0;
     }
 
     public void OnHit() {
         Lives--;
         livesHolder.LoseLife();
-        if (Lives == 0) {
-            GameOver();
+        if (Lives <= 0) {
+            GameOver(true);
         }
     }
 
