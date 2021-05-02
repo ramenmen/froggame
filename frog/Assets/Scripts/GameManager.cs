@@ -5,6 +5,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public GameObject gameOverScreen;
+    public GameObject instructionAndScore;
     public GameObject pauseScreen;
     public PlayerController playerController;
     public Lives livesHolder;
@@ -51,11 +52,11 @@ public class GameManager : MonoBehaviour
             }
         }
         else if (Input.GetKeyDown("space")) {
-            NewGame();
+            GameOver();
         }
     }
 
-    void PauseGame ()
+    void PauseGame()
     {
         isPaused = !isPaused;
         if (isPaused) {
@@ -76,15 +77,17 @@ public class GameManager : MonoBehaviour
         }
         else {
             Time.timeScale = 1;
+            NewGame();
         }
         playerController.GameOver(isGameOver);
+        instructionAndScore.SetActive(!isGameOver);
         gameOverScreen.SetActive(isGameOver);
         gameOverScreen.GetComponentInChildren<Score>().AddScore();
     }
 
     void NewGame() {
         Score = 0;
-        Lives = 3;        
+        Lives = 3;     
     }
 
     public void OnHit() {

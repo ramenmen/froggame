@@ -20,9 +20,14 @@ public class Score : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (score != targetScore) {
+        if (score > GameManager.Instance.Score) {
+            score = GameManager.Instance.Score;
+            targetScore = GameManager.Instance.Score;
+        }
+        if (score < targetScore) {
             AnimateScore();
         }
+        else 
         scoreText.text = beforeText + score.ToString();
     }
 

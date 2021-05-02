@@ -26,7 +26,6 @@ public class OnPlayerHit : MonoBehaviour
             }
             else {
                 GameManager.Instance.Score += other.GetComponent<Collectible>().points;
-                score.AddScore();
             }
             Destroy(other);
             SoundManager.Instance.PlaySound(soundEffects.coin);

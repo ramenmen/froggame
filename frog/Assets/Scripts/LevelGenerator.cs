@@ -6,8 +6,8 @@ public class LevelGenerator : MonoBehaviour
 {
     private const float DISTANCE_TO_SPAWN = 50f;
 
-    [SerializeField] private Transform StartLevel;
-    [SerializeField] private Player player;
+    [SerializeField] private Transform BackgroundSegment;
+    [SerializeField] private PlayerController player;
 
     private Vector3 lastEndPosition;
     // [SerializeField] private Transform transform_1;
@@ -16,7 +16,8 @@ public class LevelGenerator : MonoBehaviour
     private void Awake() {
         // Transform lastTransform = ground;
         // lastTransform = 
-        lastEndPosition = SpawnLevelPart(StartLevel.Find("ground").Find("EndPosition").position).position;
+        //lastEndPosition = SpawnLevelPart(BackgroundSegment.Find("EndPosition").position).position;
+        lastEndPosition = BackgroundSegment.Find("EndPosition").position;
 
     }
 
@@ -29,13 +30,13 @@ public class LevelGenerator : MonoBehaviour
     }
 
     private void SpawnLevelPart() {
-        Transform lastSpawnedLevelPart = SpawnLevelPart(lastEndPosition);
-        lastEndPosition = lastSpawnedLevelPart.Find("ground").Find("EndPosition").position;
+        Transform lastSpawnedLevelPart = Instantiate(BackgroundSegment, lastEndPosition, Quaternion.identity);
+        lastEndPosition = lastSpawnedLevelPart.Find("EndPosition").position;
         // Debug.Log("lastEndPosition: " + lastEndPosition.x + " " + lastEndPosition.y + " " + lastEndPosition.z);
     }
-
+/*
     private Transform SpawnLevelPart(Vector3 position) {
-        Transform transform = Instantiate(StartLevel, position, Quaternion.identity);
+        Transform transform = Instantiate(BackgroundSegment, position, Quaternion.identity);
         return transform;
-    }
+    }*/
 }
