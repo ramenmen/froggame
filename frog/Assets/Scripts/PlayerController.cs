@@ -63,18 +63,18 @@ public class PlayerController : MonoBehaviour
         }
         if (isSwinging) {
             myRigidBody.velocity = new Vector2(jumpingForwardSpeed, jumpForce);
-            connectTongue(false);
+            ShootTongue(false);
             SoundManager.Instance.PlaySound(soundEffects.croak);
         }
     }
 
-    public void ShootTongue() {
-        connectTongue(!isGrounded && !isSwinging);
+    public void TryToShootTongue() {
+        ShootTongue(!isGrounded && !isSwinging);
     }
 
-    void connectTongue(bool connect) {
-        tongue.Connect(connect);
-        isSwinging = connect;
+    public void ShootTongue(bool shoot) {
+        tongue.Connect(shoot);
+        isSwinging = shoot;
         prevRotation = transform.rotation;
     }
     

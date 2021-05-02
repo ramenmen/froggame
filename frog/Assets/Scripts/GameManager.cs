@@ -13,6 +13,10 @@ public class GameManager : MonoBehaviour
 
     public Collectible[] spawnables;
     public int[] rarities;
+    public int[] raritySums;
+
+    public Obstacle[] obstacles;
+    public int[] difficulty;
 
     public int Score;
     public int Lives;
@@ -30,6 +34,15 @@ public class GameManager : MonoBehaviour
             Destroy(this.gameObject);
         } else {
             _instance = this;
+        }
+        raritySums = new int[rarities.Length];
+
+        // Get the total sum of all the weights.
+        int weightSum = 0;
+        for (int i = 0; i < rarities.Length; i++)
+        {
+            weightSum += rarities[i];
+            raritySums[i] = weightSum;
         }
     }
 
@@ -52,7 +65,7 @@ public class GameManager : MonoBehaviour
             }
 
             else if (!isPaused && Input.GetKeyDown("space")) {
-                playerController.ShootTongue();
+                playerController.TryToShootTongue();
             }
         }
         else if (Input.GetKeyDown("space")) {
@@ -79,7 +92,7 @@ public class GameManager : MonoBehaviour
         isGameOver = !isGameOver;
         if (isGameOver) {
             Time.timeScale = 0;
-            playerController.ShootTongue();
+            playerController.ShootTongue(false);
             SoundManager.Instance.PlaySound(soundEffects.gameOver);
         }
         else {
