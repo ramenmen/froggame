@@ -9,12 +9,12 @@ public class Score : MonoBehaviour
     public int score;
     public int targetScore;
     public int growthRate;
+    public string beforeText = "";
 
     // Start is called before the first frame update
-    void Start()
+    void OnEnable()
     {
         score = 0;
-        targetScore = 0;
     }
 
     // Update is called once per frame
@@ -23,12 +23,11 @@ public class Score : MonoBehaviour
         if (score != targetScore) {
             AnimateScore();
         }
-        scoreText.text = score.ToString();
+        scoreText.text = beforeText + score.ToString();
     }
 
-    public void AddScore(int addedScore) {
-        targetScore += addedScore;
-        
+    public void AddScore() {
+        targetScore = GameManager.Instance.Score;
     }
 
     void AnimateScore() {
@@ -38,9 +37,5 @@ public class Score : MonoBehaviour
         else {
             score = targetScore;
         }
-    }
-
-    void FinalScore() {
-
     }
 }

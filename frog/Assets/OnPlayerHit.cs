@@ -19,7 +19,8 @@ public class OnPlayerHit : MonoBehaviour
 
         }
         else if (other.GetComponent<Collectible>() != null) {
-            score.AddScore(other.GetComponent<Collectible>().points);
+            GameManager.Instance.Score += other.GetComponent<Collectible>().points;
+            score.AddScore();
             Destroy(other);
             SoundManager.Instance.PlaySound(soundEffects.coin);
         }
