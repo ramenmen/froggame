@@ -50,6 +50,7 @@ public class PlayerController : MonoBehaviour
 
     public void GameOver(bool gameOver) {
         anim.SetBool("isGameOver",gameOver);
+        transform.rotation = Quaternion.Euler(0,0,166);
     }
 
     public void Jump() {
