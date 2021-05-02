@@ -37,7 +37,10 @@ public class PlayerController : MonoBehaviour
         
         isGrounded = transform.position.y <= 0;
         
-        if (!isGrounded) {
+        if (isSwinging) {
+            //Debug.Log(myRigidBody.rotation);
+        }
+        else if (!isGrounded) {
             myRigidBody.velocity = new Vector2(jumpingForwardSpeed, myRigidBody.velocity.y);
         }
         else {
@@ -66,9 +69,7 @@ public class PlayerController : MonoBehaviour
     }
 
     public void ShootTongue() {
-        if (!isGrounded) {
-            connectTongue(!isSwinging);
-        }
+        connectTongue(!isGrounded && !isSwinging);
     }
 
     void connectTongue(bool connect) {

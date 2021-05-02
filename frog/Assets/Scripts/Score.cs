@@ -27,7 +27,6 @@ public class Score : MonoBehaviour
         if (score < targetScore) {
             AnimateScore();
         }
-        else 
         scoreText.text = beforeText + score.ToString();
     }
 

@@ -8,7 +8,11 @@ public class GameManager : MonoBehaviour
     public GameObject instructionAndScore;
     public GameObject pauseScreen;
     public PlayerController playerController;
+    public GameObject startPosition;
     public Lives livesHolder;
+
+    public Collectible[] spawnables;
+    public int[] rarities;
 
     public int Score;
     public int Lives;
@@ -66,6 +70,7 @@ public class GameManager : MonoBehaviour
             Time.timeScale = 1;
         }
         pauseScreen.SetActive(isPaused);
+        instructionAndScore.SetActive(!isPaused);
         pauseScreen.GetComponentInChildren<Score>().AddScore();
     }
 
@@ -74,10 +79,13 @@ public class GameManager : MonoBehaviour
         isGameOver = !isGameOver;
         if (isGameOver) {
             Time.timeScale = 0;
+            playerController.ShootTongue();
+            SoundManager.Instance.PlaySound(soundEffects.gameOver);
         }
         else {
             Time.timeScale = 1;
             NewGame();
+            playerController.transform.position = startPosition.transform.position;
         }
         playerController.GameOver(isGameOver);
         instructionAndScore.SetActive(!isGameOver);
@@ -87,7 +95,7 @@ public class GameManager : MonoBehaviour
 
     void NewGame() {
         Score = 0;
-        Lives = 3;     
+        Lives = 3;
     }
 
     public void OnHit() {

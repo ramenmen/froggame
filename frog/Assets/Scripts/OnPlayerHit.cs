@@ -18,6 +18,7 @@ public class OnPlayerHit : MonoBehaviour
         //obstacle
         if (other.GetComponent<Obstacle>() != null) {
             GameManager.Instance.OnHit();
+            SoundManager.Instance.PlaySound(soundEffects.hit);
         }
         //non heart collectible
         else if (other.GetComponent<Collectible>() != null) {
@@ -26,6 +27,7 @@ public class OnPlayerHit : MonoBehaviour
             }
             else {
                 GameManager.Instance.Score += other.GetComponent<Collectible>().points;
+                score.AddScore();
             }
             Destroy(other);
             SoundManager.Instance.PlaySound(soundEffects.coin);

@@ -11,10 +11,10 @@ GameObject:
   - component: {fileID: 7025019246274127769}
   - component: {fileID: 7025019246274127768}
   - component: {fileID: 7025019246274127775}
-  - component: {fileID: 7025019246274127770}
-  - component: {fileID: 730160191}
+  - component: {fileID: 1741570478}
+  - component: {fileID: -202410603068358699}
   m_Layer: 0
-  m_Name: coin
+  m_Name: life
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28,8 +28,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7025019246274127774}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.2, y: -0.21, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.5, y: 1.2, z: 0.98400986}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_SortingLayerID: -641038201
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: -7223711027215971417, guid: fdc258854b9774c3ca5c7d919ab65428,
+  m_Sprite: {fileID: 5361722722682109358, guid: cc0e3844fea6e475f9d47f7b28554f04,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -95,7 +95,7 @@ Animator:
   m_GameObject: {fileID: 7025019246274127774}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 1473963fbfd714a2c8ec501c09667ddf, type: 2}
+  m_Controller: {fileID: 9100000, guid: c4146ee2bbd07450bbfa5811f9ef53cf, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -104,7 +104,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!70 &7025019246274127770
+--- !u!114 &1741570478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7025019246274127774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b29a8e82462744ab8fb61ae8ec6384a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  points: 0
+--- !u!70 &-202410603068358699
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -117,19 +130,6 @@ CapsuleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0041475296}
-  m_Size: {x: 0.75, y: 0.8080659}
+  m_Offset: {x: 0.003921753, y: 0.064053394}
+  m_Size: {x: 0.76331854, y: 0.815607}
   m_Direction: 0
---- !u!114 &730160191
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7025019246274127774}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc98d3c503bdd4c389857a5d7c99877d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  points: 100

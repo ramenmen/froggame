@@ -1,5 +1,49 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2286287231263177921
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6046009848182662988}
+  - component: {fileID: 7182955168210324518}
+  m_Layer: 0
+  m_Name: CoinSpawn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &6046009848182662988
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2286287231263177921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.33333334, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5680829042691815144}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.3, y: 0.39}
+  m_SizeDelta: {x: 3.5459766, y: 4.7515907}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &7182955168210324518
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2286287231263177921}
+  m_CullTransparentMesh: 0
 --- !u!1 &5680829040844957120
 GameObject:
   m_ObjectHideFlags: 0
@@ -175,7 +219,7 @@ GameObject:
   - component: {fileID: 5680829042691815145}
   - component: {fileID: 5680829042691815147}
   m_Layer: 0
-  m_Name: Obstacle
+  m_Name: BigRock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -189,11 +233,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5680829042691815150}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.04, z: -260.059}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalPosition: {x: 0, y: -0.04, z: 0}
+  m_LocalScale: {x: 3, y: 3, z: 1}
   m_Children:
   - {fileID: 5680829042171704570}
   - {fileID: 5680829040844957123}
+  - {fileID: 6046009848182662988}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -222,13 +267,14 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.045473576, y: 0.059328318}
-      - {x: -0.23584437, y: -0.46878815}
-      - {x: -0.3425793, y: -0.85404307}
-      - {x: 1.0322543, y: -0.8455721}
+    - - {x: 0.06537517, y: -0.00037646294}
+      - {x: -0.17613943, y: -0.4807291}
+      - {x: -0.26657337, y: -0.65570724}
+      - {x: -0.31471708, y: -0.85404307}
+      - {x: 0.9844905, y: -0.8535328}
       - {x: 0.9467349, y: -0.6189587}
-      - {x: 0.83135986, y: -0.29097608}
-      - {x: 0.4776163, y: 0.06559974}
+      - {x: 0.79951733, y: -0.29097608}
+      - {x: 0.5014982, y: 0.005894959}
 --- !u!114 &5680829042691815147
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -242,3 +288,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 0
+  coinSpawn: {fileID: 2286287231263177921}

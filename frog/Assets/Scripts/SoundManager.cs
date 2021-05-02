@@ -44,5 +44,7 @@ public class SoundManager : MonoBehaviour
 
 public enum soundEffects {
     croak,
-    coin
+    coin,
+    hit,
+    gameOver
 }
