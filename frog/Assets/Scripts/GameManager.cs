@@ -23,6 +23,10 @@ public class GameManager : MonoBehaviour
     bool isPaused = false;
     bool isGameOver = false;
 
+    public AudioSource BGM;
+    public AudioSource AmbientSound;
+    public float BGM_play_from;
+
     private static GameManager _instance;
 
     public static GameManager Instance { get { return _instance; } }
@@ -44,6 +48,8 @@ public class GameManager : MonoBehaviour
             weightSum += rarities[i];
             raritySums[i] = weightSum;
         }
+
+        BGM.Play();
     }
 
     // Start is called before the first frame update
@@ -56,6 +62,12 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         if (!isGameOver) {
+            if (!isPaused && !BGM.isPlaying) {
+                BGM.time = BGM_play_from;
+                BGM.Play();
+                Debug.Log("BGM time/play_from: " + BGM.time + " " + BGM_play_from);
+            }
+
             if (Input.GetKeyDown(KeyCode.Escape)) {
                 PauseGame();
             }
@@ -71,11 +83,20 @@ public class GameManager : MonoBehaviour
         else if (Input.GetKeyDown("space")) {
             GameOver();
         }
+        // Debug.Log("BGM time: " + BGM.time);
     }
 
     void PauseGame()
     {
         isPaused = !isPaused;
+
+        if (BGM.isPlaying) {
+            BGM_play_from = BGM.time;
+            BGM.Stop();
+            AmbientSound.Play();
+            Debug.Log("BGM time/play_from: " + BGM.time + " " + BGM_play_from);
+        }
+        
         if (isPaused) {
             Time.timeScale = 0;
         }
@@ -90,6 +111,12 @@ public class GameManager : MonoBehaviour
     void GameOver ()
     {
         isGameOver = !isGameOver;
+
+        if (BGM.isPlaying) {
+            BGM.Stop();
+            AmbientSound.Play();
+        }
+
         if (isGameOver) {
             Time.timeScale = 0;
             playerController.ShootTongue(false);
