@@ -1554,8 +1554,8 @@ MonoBehaviour:
   difficultySums: 
   Score: 0
   Lives: 0
-  BGM: {fileID: 0}
-  AmbientSound: {fileID: 0}
+  BGM: {fileID: 141248846}
+  AmbientSound: {fileID: 136219711}
   BGM_play_from: 0
 --- !u!1 &971463378
 GameObject:
