@@ -60,6 +60,10 @@ public class GameManager : MonoBehaviour
             weightSum += difficulty[i];
             difficultySums[i] = weightSum;
         }
+
+
+        Score = 0;
+        Lives = 3;
     }
 
     // Start is called before the first frame update
@@ -71,23 +75,30 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!isGameOver) {
-            if (!isPaused && !BGM.isPlaying) {
-                BGM.time = BGM_play_from;
-                BGM.Play();
-                Debug.Log("BGM time/play_from: " + BGM.time + " " + BGM_play_from);
-            }
+        if (Lives <= 0) {
+            GameOver(true);
+        }
+
+        //hide instructions after they play for a while
         if (playerController.transform.position.x > startPosition.transform.position.x) {
             instruction.SetActive(false);
         }
+
+        //if at start page, start game.
         if (!isStarted) {
             if (Input.GetKeyDown("space")) {
                 NewGame();
                 isStarted = true;
             }
         }
-        }
+        //else, if not game over, do normal things
         else if (!isGameOver) {
+            if (!isPaused && !BGM.isPlaying) {
+                BGM.time = BGM_play_from;
+                BGM.Play();
+                Debug.Log("BGM time/play_from: " + BGM.time + " " + BGM_play_from);
+            }
+
             if (Input.GetKeyDown(KeyCode.Escape)) {
                 PauseGame();
             }
@@ -130,14 +141,13 @@ public class GameManager : MonoBehaviour
 
     void GameOver (bool gameOver)
     {
-        isGameOver = !isGameOver;
+        isGameOver = gameOver;
 
         if (BGM.isPlaying) {
             BGM.Stop();
             AmbientSound.Play();
         }
 
-        isGameOver = gameOver;
         if (isGameOver) {
             Time.timeScale = 0;
             playerController.ShootTongue(false);
@@ -161,7 +171,6 @@ public class GameManager : MonoBehaviour
         instructionAndScore.SetActive(true);
         startScreen.SetActive(false);
         playerController.isGameStarted = true;
-        livesHolder.Restart();
     }
 
     void StartScreen() {
@@ -172,20 +181,13 @@ public class GameManager : MonoBehaviour
 
     public void OnHit() {
         Lives--;
-        livesHolder.LoseLife();
-        if (Lives <= 0) {
-            GameOver(true);
-        }
-    }
-
-    void OnMouseDown()
-    {
-        ScreenCapture.CaptureScreenshot("myCoverImage");
     }
 
     public void OnHeartCollect() {
-        Lives++;
-        livesHolder.GainLife();
+        if (Lives < 3) 
+        {
+            Lives++;
+        }
     }
 
 }
