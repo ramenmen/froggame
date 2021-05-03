@@ -1,6 +1,8 @@
 # Forest Jump
 
-A game made in 72 hours for Mini-Jam 79: Frogs.
+Avoid rocks and logs and swing from the treetops with your super strong tongue!!
+
+An endless runner made in 72 hours for Mini-Jam 79: Frogs.
 
 Made by: ramenmen and zhizhizhizhizhi
 
